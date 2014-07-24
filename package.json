@@ -1,7 +1,7 @@
 {
   "name": "generator-awesomeo",
   "version": "0.0.0",
-  "description": "Yeoman generator",
+  "description": "A.W.E.S.O.M.E.O generator. I listen and make dreams come true!",
   "license": "MIT",
   "main": "app/index.js",
   "repository": "tpickett/generator-awesomeo",

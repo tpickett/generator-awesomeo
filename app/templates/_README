@@ -1,0 +1,80 @@
+<%= _.slugify(_.humanize(awesomeo.name)) %>
+=========
+
+<%= _.slugify(_.humanize(awesomeo.name)) %> Built with:
+
+  - Ubuntu
+  - Docker
+  - Express 3
+  - Bootstrap
+  - AngularJS
+  <% if(awesomeo.express.extra['includeRedis'] == true) { %>- Redis<% } %>
+  <% if(awesomeo.express.extra['includeMongoose'] == true) { %>- Mongoose<% } %>
+  <% if(awesomeo.express.extra['includeSocket'] == true){ %>- Socket.io<% } %>
+  <% if(awesomeo.express.extra['includeWinston'] == true){ %>- Winston<% } %>
+  <% if(awesomeo.express.extra['includePassport'] == true){ %>- Passport<% } %>
+
+
+Version
+----
+
+0.1
+
+Installation
+--------------
+
+<% if(awesomeo.express.extra['includeRedis'] == true && awesomeo.express.extra['includeMongoose'] == false) { %> 
+1.  Make sure you have the dockerfile/redis container running through docker first:
+```
+<% if(awesomeo.express.extra['includeRedis'] == true) { %>docker pull dockerfile/redis<% } %>
+```
+
+```
+docker run -d -t redisDB dockerfile/redis
+```
+<% } %>
+
+<% if(awesomeo.express.extra['includeMongoose'] == true && awesomeo.express.extra['includeRedis'] == false) { %> 
+1.  Make sure you have the mongo container running through docker first:
+```
+<% if(awesomeo.express.extra['includeMongoose'] == true) { %>docker pull mongo<% } %>
+```
+
+```
+docker run -d -t mongoDB mongo
+```
+<% } %>
+
+<% if(awesomeo.express.extra['includeRedis'] == true && awesomeo.express.extra['includeMongoose'] == true) { %>
+1.  Make sure you have the dockerfile/redis and the mongo containers running through docker first:
+```
+<% if(awesomeo.express.extra['includeMongoose'] == true) { %>docker pull mongo<% } %>
+<% if(awesomeo.express.extra['includeRedis'] == true) { %>docker pull dockerfile/redis<% } %>
+```
+```
+docker run -d -t mongoDB mongo
+```
+```
+docker run -d -t redisDB dockerfile/redis
+```
+<% } %>
+
+2.  Build the <%= _.slugify(_.humanize(awesomeo.name)) %> container from the Dockerfile:
+```
+docker build -t FIRST_INITIAL_LASTNAME/<%= _.slugify(_.humanize(awesomeo.name)) %> .
+```
+
+3.  Start the <%= _.slugify(_.humanize(awesomeo.name)) %> container with the mongoDB and redisDB containers linked:
+```
+docker run --name <%= _.slugify(_.humanize(awesomeo.name)) %> -i -p 3000:3000  -p 35729:35729 -v ABSOLUTE_PATH_TO_APP:/usr/local/src/<%= _.slugify(_.humanize(awesomeo.name)) %> --link redisDB:redisDB --link mongoDB:mongoDB NAME_OF_<%= _.slugify(_.humanize(awesomeo.name)) %>_IMAGE /bin/bash
+```
+
+4.  Start the development express server with livereload:
+```
+grunt serve
+```
+
+5. Navigate to: 
+```
+http://localhost:3000
+```

@@ -1,0 +1,1493 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"express",
+				"expressExtrasInstall"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"logo",
+				"logoType"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"array_key",
+				"array_key_exists"
+			],
+			[
+				"error",
+				"error_log"
+			],
+			[
+				"sim",
+				"similarWebTrafficDate"
+			],
+			[
+				"tr",
+				"trafficSharesArray"
+			],
+			[
+				"tra",
+				"trafficReachArray"
+			],
+			[
+				"top",
+				"topCountrySharesArray"
+			],
+			[
+				"country",
+				"countryRank"
+			],
+			[
+				"count",
+				"CountryRank"
+			],
+			[
+				"co",
+				"countryName"
+			],
+			[
+				"globa",
+				"globalRank"
+			],
+			[
+				"return",
+				"returnData"
+			],
+			[
+				"coun",
+				"countryCode"
+			],
+			[
+				"COUNT",
+				"countryCode"
+			],
+			[
+				"json",
+				"json_decode"
+			],
+			[
+				"JSON",
+				"json_decode"
+			],
+			[
+				"at",
+				"asterisk"
+			],
+			[
+				"git",
+				"git_ssh_key"
+			],
+			[
+				"crawler",
+				"crawler01"
+			],
+			[
+				"Trans",
+				"Transform"
+			],
+			[
+				"shce",
+				"schedule_info"
+			],
+			[
+				"schedule",
+				"schedule_info"
+			],
+			[
+				"find",
+				"findOneAndUpdate"
+			],
+			[
+				"schedul",
+				"scheduleJobs"
+			],
+			[
+				"sche",
+				"scheduleJobs"
+			],
+			[
+				"new",
+				"newSched"
+			],
+			[
+				"sch",
+				"scheduleChecker"
+			],
+			[
+				"update",
+				"updateProject"
+			],
+			[
+				"Com",
+				"CompleteSiteCrawl"
+			],
+			[
+				"client",
+				"clientSockets"
+			],
+			[
+				"socket",
+				"socketApi"
+			],
+			[
+				"server",
+				"serverID"
+			],
+			[
+				"ver",
+				"VerifiedURL"
+			],
+			[
+				"g",
+				"gsa_manager_info"
+			],
+			[
+				"get",
+				"get_server_object"
+			],
+			[
+				"pro",
+				"project_name"
+			],
+			[
+				"proj",
+				"projectFiles"
+			],
+			[
+				"emit",
+				"emitData"
+			],
+			[
+				"event",
+				"eventEmitter"
+			],
+			[
+				"even",
+				"eventEmitter"
+			],
+			[
+				"project",
+				"project_name"
+			],
+			[
+				"projec",
+				"project_name"
+			],
+			[
+				"Verii",
+				"VerifiedUrls"
+			],
+			[
+				"grou",
+				"groupedByDateData"
+			],
+			[
+				"date",
+				"date_verified"
+			],
+			[
+				"proje",
+				"projectId"
+			],
+			[
+				"user",
+				"user_projects"
+			],
+			[
+				"chart",
+				"chartseries"
+			],
+			[
+				"crea",
+				"create_template_from_object"
+			],
+			[
+				"req",
+				"requestBody"
+			],
+			[
+				"curr",
+				"currentSize"
+			],
+			[
+				"verify",
+				"verify_size"
+			],
+			[
+				"serv",
+				"server_object"
+			],
+			[
+				"success",
+				"success_paths"
+			],
+			[
+				"succe",
+				"success_paths"
+			],
+			[
+				"request",
+				"requestBody"
+			],
+			[
+				"template",
+				"templateVars"
+			],
+			[
+				"put",
+				"put_file_on_server"
+			],
+			[
+				"tem",
+				"templateVars"
+			],
+			[
+				"server_",
+				"server_object"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"ftp",
+				"ftp_project_file"
+			],
+			[
+				"ser",
+				"ser_project_location"
+			],
+			[
+				"redu",
+				"reduceFunct"
+			],
+			[
+				"fo",
+				"for	for (…) {…}"
+			],
+			[
+				"awesome",
+				"awesomeThings"
+			],
+			[
+				"the",
+				"the_elevator"
+			],
+			[
+				"current",
+				"current_node"
+			],
+			[
+				"form",
+				"formElems"
+			],
+			[
+				"loan",
+				"loanTime"
+			],
+			[
+				"dya",
+				"days"
+			],
+			[
+				"to",
+				"toFixed"
+			],
+			[
+				"ma",
+				"maxLoanAmountPayment"
+			],
+			[
+				"de",
+				"debtVal"
+			],
+			[
+				"max",
+				"maxLoanAmount"
+			],
+			[
+				"month",
+				"monthlyIncome"
+			],
+			[
+				"monthly",
+				"monthlyAuto"
+			],
+			[
+				"mo",
+				"monthlyIncome"
+			],
+			[
+				"Cal",
+				"CalculatorWidget"
+			],
+			[
+				"boot",
+				"bootstrap_form_helper"
+			],
+			[
+				"cal",
+				"calculator_heading"
+			],
+			[
+				"wp_en",
+				"wp_enqueue_script"
+			],
+			[
+				"requ",
+				"require"
+			],
+			[
+				"slider",
+				"slider_bg"
+			],
+			[
+				"your",
+				"your_interest"
+			],
+			[
+				"calcu",
+				"calculator_module"
+			],
+			[
+				"calculator_",
+				"calculator_heading"
+			],
+			[
+				"chrom",
+				"chromeScreenshot"
+			],
+			[
+				"Cla",
+				"calendar"
+			],
+			[
+				"cla",
+				"calendar"
+			],
+			[
+				"cre",
+				"credit_score"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"smartloan",
+				"smartloan_members"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"get_cur",
+				"get_currentuserinfo"
+			],
+			[
+				"get_styl",
+				"get_stylesheet_uri"
+			],
+			[
+				"l",
+				"li	Tag"
+			],
+			[
+				"ele",
+				"elevator_nav"
+			],
+			[
+				"q",
+				"qInputs"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"boder",
+				"border"
+			],
+			[
+				"post",
+				"posted_vars"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"border-top",
+				"border-top-right-radius"
+			],
+			[
+				"border-bo",
+				"border-bottom-left-radius"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"total",
+				"totalInterest"
+			],
+			[
+				"di",
+				"div	Tag"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"page_con",
+				"page_container_elevator"
+			],
+			[
+				"border-top-",
+				"border-top-left-radius"
+			],
+			[
+				"page",
+				"page_color"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"styel",
+				"stylesheet_directory"
+			],
+			[
+				"re",
+				"RequireJS"
+			],
+			[
+				"RE",
+				"RequireJS"
+			],
+			[
+				"Requi",
+				"RequireJS"
+			],
+			[
+				"get_style",
+				"get_stylesheet_directory"
+			],
+			[
+				"get_temp",
+				"get_template_directory"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/templates/_Gruntfile.js",
+			"settings":
+			{
+				"buffer_size": 17105,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/templates/server/views/_index.html",
+			"settings":
+			{
+				"buffer_size": 3922,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/usr/local/src/test/.gitignore",
+			"settings":
+			{
+				"buffer_size": 30,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/index.js",
+			"settings":
+			{
+				"buffer_size": 13286,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".jshintrc",
+			"settings":
+			{
+				"buffer_size": 351,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/templates/_Dockerfile",
+			"settings":
+			{
+				"buffer_size": 451,
+				"line_ending": "Unix",
+				"name": "#"
+			}
+		},
+		{
+			"file": "/usr/local/src/test/Gruntfile.js",
+			"settings":
+			{
+				"buffer_size": 17271,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "{\n    \"account_id\" : ObjectId(\"5390d4a93eaaee5a47c88ec5\"),\n    \"date_flagged\" : \"2014-07-4T19:17:56.118Z\",\n    \"description\" : \"Silpada Sterling Silver Crystal CZ Drop Pendant. Very nice pendant, great condition, signed...\",\n    \"image\" : \"http://i.ebayimg.com/00/s/NjAwWDQ1MA==/z/gkMAAOSwI~VTx8cL/$_12.JPG\",\n    \"title\" : \"Silpada Sterling Silver Crystal CZ Drop Pendant\",\n    \"url\" : \"http://www.ebay.com/itm/Silpada-Sterling-Silver-Crystal-CZ-Drop-Pendant-/201130302095?pt=Fashion_Jewelry&hash=item2ed44cda8f\"\n},\n{\n    \"account_id\" : ObjectId(\"5390d4a93eaaee5a47c88ec5\"),\n    \"date_flagged\" : \"2014-07-4T19:17:56.118Z\",\n    \"description\" : \"Retired Silpada Cha Cha Ring. Hand brushed petals of Sterling Silver and oxidized Brass and Copper bloom\",\n    \"image\" : \"http://i.ebayimg.com/00/s/MTE5NVgxNjAw/z/9C8AAOSwFL9TvqPj/$_57.JPG\",\n    \"title\" : \"Silpada Cha Cha Ring R1978 Size 8, Retired, Sterling Silver\",\n    \"url\" : \"http://www.ebay.com/itm/Silpada-Cha-Cha-Ring-R1978-Size-8-Retired-Sterling-Silver-/261528894846?pt=Gemstone_Rings&hash=item3ce4563d7e\"\n},\n{\n    \"account_id\" : ObjectId(\"5390d4a93eaaee5a47c88ec5\"),\n    \"date_flagged\" : \"2014-07-4T19:17:56.118Z\",\n    \"description\" : \"Great condition 18\\\" Silpada Mother-of-Pear necklace!\",\n    \"image\" : \"http://i.ebayimg.com/00/s/OTE3WDUyNw==/z/JKsAAOSwDk5TsuXL/$_57.JPG\",\n    \"title\" : \"Silpada Green .925 Sterling Silver Necklace\",\n    \"url\" : \"http://www.ebay.com/itm/Silpada-Green-925-Sterling-Silver-Necklace-/251589555558?pt=Fashion_Jewelry&hash=item3a93e7f566\"\n},\n{\n    \"account_id\" : ObjectId(\"5390d4a93eaaee5a47c88ec5\"),\n    \"date_flagged\" : \"2014-07-4T19:17:56.118Z\",\n    \"description\" : \"FLEXIBLE 16\\\" STERLING SILVER & SODALITE BEADED CHOKER NECKLACE by SILPADA\",\n    \"image\" : \"http://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/YNoAAOSw4bVTnllt/$_57.JPG\",\n    \"title\" : \"HTF Retired SILPADA STERLING SILVER SODALITE BEAD CHOKER NECKLACE +Extras N1090\",\n    \"url\" : \"http://www.ebay.com/itm/HTF-Retired-SILPADA-STERLING-SILVER-SODALITE-BEAD-CHOKER-NECKLACE-Extras-N1090-/281387738763?pt=Fashion_Jewelry&hash=item418404268b\"\n},\n{\n    \"account_id\" : ObjectId(\"5390d4a93eaaee5a47c88ec5\"),\n    \"date_flagged\" : \"2014-07-4T19:17:56.118Z\",\n    \"description\" : \"Up for auction are Silpada Designs Retired CZ and Sterling Silver Hoop Earrings P2006. Retail $44\",\n    \"image\" : \"http://i.ebayimg.com/00/s/MTE5NVgxNjAw/z/1hwAAOSw-dBTvqW2/$_57.JPG\",\n    \"title\" : \"Silpada Designs Retired Cz Hoop Earrings P2006\",\n    \"url\" : \"http://www.ebay.com/itm/Silpada-Designs-Retired-Cz-Hoop-Earrings-P2006-/291187310218?pt=Fashion_Jewelry&hash=item43cc1dbe8a\"\n},\n{\n    \"account_id\" : ObjectId(\"5390d4a93eaaee5a47c88ec5\"),\n    \"date_flagged\" : \"2014-07-4T19:17:56.118Z\",\n    \"description\" : \"Worn once - I don't have the original box but do have a silpada box for it. Citrine and fresh water pearl\",\n    \"image\" : \"http://i.ebayimg.com/00/s/MTI4MFg5NjA=/z/uxkAAOSwI~VTxohi/$_57.JPG\",\n    \"title\" : \"Silpada necklace N1895\",\n    \"url\" : \"http://www.ebay.com/itm/Silpada-necklace-N1895-/261534678859?pt=Fashion_Jewelry&hash=item3ce4ae7f4b\"\n},\n{\n    \"account_id\" : ObjectId(\"5390d4a93eaaee5a47c88ec5\"),\n    \"date_flagged\" : \"2014-07-4T19:17:56.118Z\",\n    \"description\" : \"Silpada  N1973 Black & Clear Glass Bead Multi Strand Necklace, 18 inches long with 2 inch extender.   Excellent condition, used for display.  Very nice!  Retailed for $129.\",\n    \"image\" : \"http://i.ebayimg.com/00/s/MTYwMFgxMjAw/z/gwQAAOxyUrZS7W3v/$_57.JPG\",\n    \"title\" : \"Silpada N1973 Black Glass Bead Multi Strand Necklace\",\n    \"url\" : \"http://www.ebay.com/itm/Silpada-N1973-Black-Glass-Bead-Multi-Strand-Necklace-/261535464880?hash=item3ce4ba7db0\"\n},\n{\n    \"account_id\" : ObjectId(\"5390d4a93eaaee5a47c88ec5\"),\n    \"date_flagged\" : \"2014-07-4T19:17:56.118Z\",\n    \"description\" : \"Wear to a wedding or with a pair of jeans. This necklace goes everywhere. Pearls and glass are tied together with a gray string and connected to a silver chain for fastening. Beautiful. 20\\\" original price was $119 THIS IS A RETIRED PIECE NO LONGER AVAILABLE THROUGH SILPADA DEALERS. COMES WITH A BOX. I HAVE LOTS MORE SILPADA JEWLERY, SO CHECK OUT THE REST OF MY ITEMS. THANK-YOU\",\n    \"image\" : \"http://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/W2IAAMXQ1d1TJ3Iy/$_57.JPG\",\n    \"title\" : \"Silpada .925 Sterling Silver Pearl, Quartz,& Glass Effervesent Necklace N2189 -R\",\n    \"url\" : \"http://www.ebay.com/itm/Silpada-925-Sterling-Silver-Pearl-Quartz-Glass-Effervesent-Necklace-N2189-R-/131244395343?pt=Fashion_Jewelry&hash=item1e8ec68b4f\"\n},\n{\n    \"account_id\" : ObjectId(\"5390d4a93eaaee5a47c88ec5\"),\n    \"date_flagged\" : \"2014-07-4T19:17:56.118Z\",\n    \"description\" : \"Up for auction are Silpada Designs Retired Tear Drop Shaped Sonokeking Wood and Sterling Silver earrings. W1845. Retail $46\",\n    \"image\" : \"http://i.ebayimg.com/00/s/MTE5NVgxNjAw/z/jskAAOSwirZTvqaR/$_57.JPG\",\n    \"title\" : \"Silpada Designs Retired Wood Earrings W1845\",\n    \"url\" : \"http://www.ebay.com/itm/Silpada-Designs-Retired-Wood-Earrings-W1845-/291187312264?pt=Fashion_Jewelry&hash=item43cc1dc688\"\n},\n    \"account_id\" : ObjectId(\"5390d4a93eaaee5a47c88ec5\"),\n    \"date_flagged\" : \"2014-07-4T19:17:56.118Z\",\n    \"description\" : \"Don't pass this up! Stunning attention getting piece you'll love! This from the samples of a dealer in excellent gift-giving condition. I can provide a silpada box. Please request one if you would like it. Thank-you and have a great day!!!\",\n    \"image\" : \"http://i.ebayimg.com/00/s/MTAwNlgxNjAw/z/970AAOSw-ndTmkL4/$_57.JPG\",\n    \"title\" : \"Silpada .925 Sterling Silver & Brass w/Turquoise Pendant Necklace N1804\",\n    \"url\" : \"http://www.ebay.com/itm/Silpada-925-Sterling-Silver-Brass-w-Turquoise-Pendant-Necklace-N1804-/131244394996?pt=Fashion_Jewelry&hash=item1e8ec689f4\"\n},",
+			"settings":
+			{
+				"buffer_size": 5770,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/usr/local/src/kinetic/torch-client/torchClient/src/app/watchtower/templates/filter-capture.widget.html",
+			"settings":
+			{
+				"buffer_size": 829,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "cd /tmp;wget https://dl.bintray.com/mitchellh/vagrant/vagrant_1.6.3_x86_64.deb; dpkg -i vagrant_1.6.3_x86_64.deb;sudo apt-get install linux-headers-$(uname -r);sudo dpkg-reconfigure virtualbox-dkms",
+			"settings":
+			{
+				"buffer_size": 197,
+				"line_ending": "Unix",
+				"name": "cd /tmp;wget https://dl.bintray.com/mitchellh/vagr"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 74.0,
+		"selected_items":
+		[
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"ru",
+				"Set Syntax: Ruby"
+			],
+			[
+				"jas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"josn",
+				"Set Syntax: JSON"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			]
+		],
+		"width": 557.0
+	},
+	"console":
+	{
+		"height": 160.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/usr/local/src/kinetic/nightwatch/app/Gruntfile.js",
+		"/usr/local/src/generator-awesomeo/app/templates/test/client/e2e/_test.js",
+		"/usr/local/src/generator-awesomeo/app/templates/server/views/_index.html",
+		"/usr/local/src/generator-awesomeo/app/templates/app/assets/less/partials/_product.less",
+		"/usr/local/src/generator-awesomeo/app/templates/server/lib/_sockets.js",
+		"/usr/local/src/generator-awesomeo/app/templates/app/_app.js",
+		"/usr/local/src/generator-awesomeo/app/templates/_bower.json",
+		"/usr/local/src/generator-awesomeo/app/templates/server/controllers/_auth.js",
+		"/usr/local/src/generator-awesomeo/app/templates/server/config/_passport.js",
+		"/usr/local/src/generator-awesomeo/app/templates/server/config/_express.js",
+		"/usr/local/src/generator-awesomeo/app/templates/server/controllers/_base.js",
+		"/usr/local/src/generator-awesomeo/app/templates/_bowerrc",
+		"/usr/local/src/generator-awesomeo/app/templates/app/assets/less/_base.less",
+		"/home/griffith/Downloads/theme/index.html",
+		"/usr/local/src/generator-awesomeo/app/templates/test/_protractor-e2e.conf.js",
+		"/usr/local/src/generator-awesomeo/app/templates/test/protractor-e2e.conf.js",
+		"/usr/local/src/generator-awesomeo/app/templates/_package.json",
+		"/usr/local/src/generator-awesomeo/app/index.js",
+		"/usr/local/src/generator-awesomeo/app/templates/server/lib/_routes.js",
+		"/usr/local/src/generator-awesomeo/app/templates/server/config/env/_development.js",
+		"/usr/local/src/generator-awesomeo/app/templates/server/_server.js",
+		"/usr/local/src/generator-awesomeo/app/templates/server/models/_user.js",
+		"/usr/local/src/kinetic/nightwatch/.gitignore",
+		"/usr/local/src/test/Gruntfile.js",
+		"/home/griffith/Downloads/theme/assets/css/main.css",
+		"/usr/local/src/generator-awesomeo/app/templates/app/assets/less/theme/_flattly.less",
+		"/usr/local/src/test/server/views/index.html",
+		"/usr/local/src/test/package.json",
+		"/usr/local/src/kinetic/torch-client/torchClient/src/index.html",
+		"/usr/local/src/kinetic/torch-client/torchClient/src/app/app.coffee",
+		"/usr/local/src/test/bower.json",
+		"/usr/local/src/kinetic/Hq/hqApp/lib/controllers/index.js",
+		"/usr/local/src/kinetic/Hq/hqApp/lib/controllers/hqAPI.js",
+		"/usr/local/src/test/server/lib/routes.js",
+		"/usr/local/src/kinetic/Hq/hqApp/lib/routes.js",
+		"/usr/local/src/kinetic/Hq/hqApp/package.json",
+		"/usr/local/src/kinetic/Hq/hqApp/lib/sockets.js",
+		"/usr/local/src/generator-awesomeo/awesomeo.sublime-",
+		"/usr/local/src/generator-awesomeo/awesomeo.sublime-project",
+		"/usr/local/src/generator-awesomeo/app/templates/_sublime-project",
+		"/usr/local/src/kinetic/Hq/hqApp/bower.json",
+		"/usr/local/src/generator-awesomeo/app/templates/server/config/_config.js",
+		"/usr/local/src/kinetic/Hq/hqApp/lib/config/env/all.js",
+		"/usr/local/src/generator-awesomeo/app/templates/server/config/env/_all.js",
+		"/usr/local/src/kinetic/Hq/hqApp/lib/config/env/development.js",
+		"/usr/local/src/generator-awesomeo/app/templates/server/config/env/_production.js",
+		"/usr/local/src/kinetic/Hq/hqApp/lib/config/env/production.js",
+		"/usr/local/src/kinetic/Hq/hqApp/lib/config/config.js",
+		"/usr/local/src/kinetic/Hq/hqApp/lib/config/express.js",
+		"/usr/local/src/kinetic/Hq/hqApp/server.js",
+		"/usr/local/src/generator-awesomeo/app/templates/server/_routes.js",
+		"/usr/local/src/generator-awesomeo/app/templates/server/_sockets.js",
+		"/usr/local/src/generator-awesomeo/app/templates/_server.js",
+		"/usr/local/src/kinetic/torch-api/torchAPI/public/kineticsupply/css/app-0.0.0.css",
+		"/usr/local/src/kinetic/torch-api/torchAPI/app/controllers/AccountController.php",
+		"/home/griffith/Downloads/windowsPhone.json",
+		"/usr/local/src/kinetic/torch-api/torchAPI/app/models/Layouts.php",
+		"/usr/local/src/kinetic/torch-api/torchAPI/app/controllers/WatchTowerController.php",
+		"/home/griffith/.ssh/id_rsa",
+		"/home/griffith/.ssh/known_hosts",
+		"/usr/local/src/kinetic/nightwatch/app/server/app.js",
+		"/usr/local/src/kinetic/nightwatch/provisioning/mean.yml",
+		"/usr/local/src/kinetic/nightwatch/app/config/development.json",
+		"/usr/local/src/kinetic/nightwatch/Vagrantfile",
+		"/usr/local/src/kinetic/torch-api/torchAPI/app/controllers/LayoutController.php",
+		"/usr/local/src/kinetic/torch-api/torchAPI/app/models/User.php",
+		"/usr/local/src/kinetic/torch-client/torchClient/src/app/similar-web/similar-web.widgets.coffee",
+		"/usr/local/src/kinetic/torch-client/torchClient/src/app/similar-web/similar-web.coffee",
+		"/usr/local/src/kinetic/torch-client/torchClient/src/app/similar-web/similar-web.services.coffee",
+		"/usr/local/src/kinetic/torch-client/torchClient/src/app/searchShare/searchShare-services.coffee",
+		"/usr/local/src/kinetic/torch-client/torchClient/src/app/searchShare/templates/search-share.widget.html",
+		"/usr/local/src/kinetic/torch-client/torchClient/src/app/searchShare/searchShare-widgets.coffee",
+		"/usr/local/src/kinetic/torch-client/torchClient/src/app/searchShare/searchShare.coffee",
+		"/usr/local/src/kinetic/torch-client/torchClient/src/app/auth/auth-services.coffee",
+		"/usr/local/src/kinetic/torch-client/torchClient/src/app/admin/audit/audit.coffee",
+		"/usr/local/src/kinetic/torch-api/torchAPI/app/models/Analytics.php",
+		"/usr/local/src/kinetic/torch-api/torchAPI/app/models/Country_Code.php",
+		"/usr/local/src/prankforce/puppet/manifests/prankforce.pp",
+		"/usr/local/src/prankforce/ansible/roles/nodejs/handlers/main.yml",
+		"/usr/local/src/prankforce/ansible/roles/nodejs/files/prankforce.sh",
+		"/usr/local/src/prankforce/ansible/roles/mongodb/tasks/main.yml",
+		"/usr/local/src/prankforce/prankforceClient/config/development.json",
+		"/usr/local/src/prankforce/prankforceClient/config/staging.json",
+		"/usr/local/src/prankforce/ansible/roles/redis/tasks/main.yml",
+		"/usr/local/src/kinetic/Hq/ansible/install.yml",
+		"/usr/local/src/prankforce/ansible/roles/common/files/prankforce.sh",
+		"/usr/local/src/prankforce/ansible/roles/mongodb/handlers/main.yml",
+		"/usr/local/src/prankforce/ansible/roles/redis/handlers/main.yml",
+		"/usr/local/src/kinetic/Hq/Vagrantfile",
+		"/usr/local/src/kinetic/torch-api/ansible/install.yml",
+		"/usr/local/src/kinetic/Hq/hqApp/app/scripts/controllers/main.js",
+		"/usr/local/src/kinetic/Hq/hqApp/app/scripts/services/crawler.js",
+		"/usr/local/src/kinetic/Hq/ansible/roles/common/tasks/main.yml",
+		"/usr/local/src/kinetic/torch-client/ansible/install.yml",
+		"/usr/local/src/prankforce/ansible/roles/nodejs/tasks/main.yml",
+		"/usr/local/src/prankforce/ansible/roles/common/tasks/main.yml",
+		"/usr/local/src/prankforce/ansible/main.yml",
+		"/usr/local/src/prankforce/ansible/roles/common/handlers/main.yml",
+		"/home/griffith/.ssh/id_rsa.pub",
+		"/usr/local/src/kinetic/Hq/hqApp/app/scripts/controllers/navbar.js",
+		"/usr/local/src/kinetic/Hq/hqApp/app/views/partials/navbar.html",
+		"/usr/local/src/kinetic/Hq/ansible/hosts",
+		"/usr/local/src/kinetic/googleCrawler/lib/config/env/development.js",
+		"/usr/local/src/kinetic/googleCrawler/lib/config/env/all.js",
+		"/usr/local/src/kinetic/googleCrawler/lib/config/config.js",
+		"/usr/local/src/kinetic/Hq/hqApp/.jshintrc",
+		"/usr/local/src/kinetic/Hq/puppet/manifests/crawlerHQ.pp",
+		"/usr/local/src/kinetic/Hq/README.md",
+		"/usr/local/src/kinetic/Hq/.travis.yml",
+		"/usr/local/src/kinetic/Hq/hqApp/dist/server.js",
+		"/usr/local/src/kinetic/Hq/ansible/roles/upstartMainframe/files/crawlerMainframe.conf",
+		"/usr/local/src/kinetic/Hq/hqApp/crawler_hq.log",
+		"/usr/local/src/kinetic/Hq/hqApp/app/views/index.html",
+		"/usr/local/src/kinetic/Hq/puppet/files/crawlerMainframe.conf",
+		"/usr/local/src/kinetic/Hq/puppet/fileserver.conf",
+		"/usr/local/src/kinetic/Hq/puppet/Puppetfile",
+		"/usr/local/src/kinetic/Hq/manifests/crawlerHQ.pp",
+		"/usr/local/src/famous-angular-fullstack/node_modules/grunt-ngmin/node_modules/ngmin/main.js",
+		"/usr/local/src/famous-angular-fullstack/test/client/spec/controllers/main.js",
+		"/usr/local/src/famous-angular-fullstack/.tmp/styles/main.css",
+		"/usr/local/src/famous-angular-fullstack/.sass-cache/4859f9c2e308e965fe1fda550e83afb21e911e3f/main.scssc",
+		"/usr/local/src/famous-angular-fullstack/node_modules/grunt-contrib-uglify/node_modules/uglify-js/lib/mozilla-ast.js",
+		"/usr/local/src/famous-angular-fullstack/app/scripts/app.js",
+		"/usr/local/src/famous-angular-fullstack/node_modules/grunt-node-inspector/node_modules/node-inspector/front-end/AuditsPanel.js",
+		"/usr/local/src/famous-angular-fullstack/node_modules/.bin/autoprefixer",
+		"/usr/local/src/famous-angular-fullstack/node_modules/grunt-contrib-jshint/node_modules/jshint/data/ascii-identifier-data.js",
+		"/usr/local/src/famous-angular-fullstack/app/styles/main.scss",
+		"/usr/local/src/famous-angular-fullstack/app/views/index.html"
+	],
+	"find":
+	{
+		"height": 45.0
+	},
+	"find_in_files":
+	{
+		"height": 138.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"col-lg",
+			"less",
+			"bowerInstall",
+			"loadNpmTasks",
+			"bowerInstall",
+			"less",
+			"injector:less",
+			"injector",
+			"env:all",
+			"env",
+			"yeoman.client ",
+			"53b1c4a27f8b9a72208b4567",
+			"audit",
+			"resetPassword",
+			"roles",
+			"/",
+			"new",
+			"$this->key",
+			"getCountryByCountryCode",
+			"print",
+			"$key",
+			"wait",
+			"autoprefixer",
+			"open",
+			"crawler_hq",
+			"*",
+			"Transform",
+			"faClick",
+			"helloBox",
+			"BG_SIZE",
+			"findServerForJob",
+			"\\.([\\w\\-]*)\\s*\\((.*)\\)\\s*\\{",
+			"@",
+			"newJob",
+			"CompleteCrawl",
+			"schedule",
+			"crawlerSockets",
+			"jobQueue",
+			"getCompleteJobs",
+			"getCrawler",
+			"');\n",
+			"Thing",
+			"Server",
+			"mongoo",
+			"s.",
+			"backlinks[i]",
+			"parsedFile",
+			"project_object",
+			"helpers.",
+			"verified",
+			"console",
+			"consol",
+			"Server",
+			");\n",
+			"project_object[^a-z0-9].*$",
+			" project_object[0][\"SocialEngine\"]",
+			": project_object[0][\"SocialEngine\"]",
+			"prox",
+			"spawn",
+			"Email",
+			"Project",
+			"Server",
+			"Thing",
+			"ftp",
+			"fs",
+			"Client",
+			"_",
+			"Email",
+			"iconvlite",
+			"ftp",
+			"fs",
+			"gsa_servers_single",
+			"object",
+			"=",
+			"=[^a-z0-9].*$",
+			"Blog_Comment={\\n{I have|I've} been {surfing|browsing} online more than {three|3|2|4} hours today, yet I never found any interesting article like yours. {It's|It is} pretty worth enough for me. {In my opinion|Personally|In my view}, if all {webmasters|site owners|website owners|web owners} and bloggers made good content as you did, the {internet|net|web} will be {much more|a lot more} useful than ever before.|\\nI {couldn't|could not} {resist|refrain from} commenting. {Very well|Perfectly|Well|Exceptionally well} written!|\\n{I will|I'll} {right away|immediately} {take hold of|grab|clutch|grasp|seize|snatch} your {rss|rss feed} as I {can not|can't} {in finding|find|to find} your {email|e-mail} subscription {link|hyperlink} or {newsletter|e-newsletter} service. Do {you have|you've} any? {Please|Kindly} {allow|permit|let} me {realize|recognize|understand|recognise|know} {so that|in order that} I {may just|may|could} subscribe. Thanks.|\\n{It is|It's} {appropriate|perfect|the best} time to make some plans for the future and {it is|it's} time to be happy. {I have|I've} read this post and if I could I {want to|wish to|desire to} suggest you {few|some} interesting things or {advice|suggestions|tips}. {Perhaps|Maybe} you {could|can} write next articles referring to this article. I {want to|wish to|desire to} read {more|even more} things about it!|\\n{It is|It's} {appropriate|perfect|the best} time to make {a few|some} plans for {the future|the longer term|the long run} and {it is|it's} time to be happy. {I have|I've} {read|learn} this {post|submit|publish|put up} and if I {may just|may|could} I {want to|wish to|desire to} {suggest|recommend|counsel} you {few|some} {interesting|fascinating|attention-grabbing} {things|issues} or {advice|suggestions|tips}. {Perhaps|Maybe} you {could|can} write {next|subsequent} articles {relating to|referring to|regarding} this article. I {want to|wish to|desire to} {read|learn} {more|even more} {things|issues} {approximately|about} it!|\\n{I have|I've} been {surfing|browsing} {online|on-line} {more than|greater than} {three|3} hours {these days|nowadays|today|lately|as of late}, {yet|but} I {never|by no means} {found|discovered} any {interesting|fascinating|attention-grabbing} article like yours. {It's|It is} {lovely|pretty|beautiful} {worth|value|price} {enough|sufficient} for me. {In my opinion|Personally|In my view}, if all {webmasters|site owners|website owners|web owners} and bloggers made {just right|good|excellent} {content|content material} as {you did|you probably did}, the {internet|net|web} {will be|shall be|might be|will probably be|can be|will likely be} {much more|a lot more} {useful|helpful} than ever before.|\\nAhaa, its {nice|pleasant|good|fastidious} {discussion|conversation|dialogue} {regarding|concerning|about|on the topic of} this {article|post|piece of writing|paragraph} {here|at this place} at this {blog|weblog|webpage|website|web site}, I have read all that, so {now|at this time} me also commenting {here|at this place}.|\\nI am sure this {article|post|piece of writing|paragraph} has touched all the internet {users|people|viewers|visitors}, its really really {nice|pleasant|good|fastidious} {article|post|piece of writing|paragraph} on building up new {blog|weblog|webpage|website|web site}.|\\nWow, this {article|post|piece of writing|paragraph} is {nice|pleasant|good|fastidious}, my {sister|younger sister} is analyzing {such|these|these kinds of} things, {so|thus|therefore} I am going to {tell|inform|let know|convey} her.|\\n{Saved as a favorite|bookmarked!!}, {I really like|I like|I love} {your blog|your site|your web site|your website}!|\\nWay cool! Some {very|extremely} valid points! I appreciate you {writing this|penning this} {article|post|write-up} {and the|and also the|plus the} rest of the {site is|website is} {also very|extremely|very|also really|really} good.|\\nHi, {I do believe|I do think} {this is an excellent|this is a great} {blog|website|web site|site}. I stumbledupon it ;) {I will|I am going to|I'm going to|I may} {come back|return|revisit} {once again|yet again} {since I|since i have} {bookmarked|book marked|book-marked|saved as a favorite} it. Money and freedom {is the best|is the greatest} way to change, may you be rich and continue to {help|guide} {other people|others}.|\\nWoah! I'm really {loving|enjoying|digging} the template/theme of this {site|website|blog}. It's simple, yet effective. A lot of times it's {very hard|very difficult|challenging|tough|difficult|hard} to get that \"perfect balance\" between {superb usability|user friendliness|usability} and {visual appearance|visual appeal|appearance}. I must say {that you've|you have|you've} done a {awesome|amazing|very good|superb|fantastic|excellent|great} job with this. {In addition|Additionally|Also}, the blog loads {very|extremely|super} {fast|quick} for me on {Safari|Internet explorer|Chrome|Opera|Firefox}. {Superb|Exceptional|Outstanding|Excellent} Blog!|\\nThese are {really|actually|in fact|truly|genuinely} {great|enormous|impressive|wonderful|fantastic} ideas in {regarding|concerning|about|on the topic of} blogging. You have touched some {nice|pleasant|good|fastidious} {points|factors|things} here. Any way keep up wrinting.|\\n{I love|I really like|I enjoy|I like|Everyone loves} what you guys {are|are usually|tend to be} up too. {This sort of|This type of|Such|This kind of} clever work and {exposure|coverage|reporting}! Keep up the {superb|terrific|very good|great|good|awesome|fantastic|excellent|amazing|wonderful} works guys I've {incorporated||added|included} you guys to {|my|our||my personal|my own} blogroll.|\\n{Howdy|Hi there|Hey there|Hi|Hello|Hey}! Someone in my {Myspace|Facebook} group shared this {site|website} with us so I came to {give it a look|look it over|take a look|check it out}. I'm definitely {enjoying|loving} the information. I'm {book-marking|bookmarking} and will be tweeting this to my followers! {Terrific|Wonderful|Great|Fantastic|Outstanding|Exceptional|Superb|Excellent} blog and {wonderful|terrific|brilliant|amazing|great|excellent|fantastic|outstanding|superb} {style and design|design and style|design}.|\\n{I love|I really like|I enjoy|I like|Everyone loves} what you guys {are|are usually|tend to be} up too. {This sort of|This type of|Such|This kind of} clever work and {exposure|coverage|reporting}! Keep up the {superb|terrific|very good|great|good|awesome|fantastic|excellent|amazing|wonderful} works guys I've {incorporated|added|included} you guys to {|my|our|my personal|my own} blogroll.|\\n{Howdy|Hi there|Hey there|Hi|Hello|Hey} would you mind {stating|sharing} which blog platform you're {working with|using}? I'm {looking|planning|going} to start my own blog {in the near future|soon} but I'm having a {tough|difficult|hard} time {making a decision|selecting|choosing|deciding} between BlogEngine/Wordpress/B2evolution and Drupal. The reason I ask is because your {design and style|design|layout} seems different then most blogs and I'm looking for something {completely unique|unique}.                  P.S {My apologies|Apologies|Sorry} for {getting|being} off-topic but I had to ask!|\\n{Howdy|Hi there|Hi|Hey there|Hello|Hey} would you mind letting me know which {webhost|hosting company|web host} you're {utilizing|working with|using}? I've loaded your blog in 3 {completely different|different} {internet browsers|web browsers|browsers} and I must say this blog loads a lot {quicker|faster} then most. Can you {suggest|recommend} a good {internet hosting|web hosting|hosting} provider at a {honest|reasonable|fair} price? {Thanks a lot|Kudos|Cheers|Thank you|Many thanks|Thanks}, I appreciate it!|\\n{I love|I really like|I like|Everyone loves} it {when people|when individuals|when folks|whenever people} {come together|get together} and share {opinions|thoughts|views|ideas}. Great {blog|website|site}, {keep it up|continue the good work|stick with it}!|\\nThank you for the {auspicious|good} writeup. It in fact was a amusement account it. Look advanced to {far|more} added agreeable from you! {By the way|However}, how {can|could} we communicate?|\\n{Howdy|Hi there|Hey there|Hello|Hey} just wanted to give you a quick heads up. The {text|words} in your {content|post|article} seem to be running off the screen in {Ie|Internet explorer|Chrome|Firefox|Safari|Opera}. I'm not sure if this is a {format|formatting} issue or something to do with {web browser|internet browser|browser} compatibility but I {thought|figured} I'd post to let you know. The {style and design|design and style|layout|design} look great though! Hope you get the {problem|issue} {solved|resolved|fixed} soon. {Kudos|Cheers|Many thanks|Thanks}|\\nThis is a topic {that is|that's|which is} {close to|near to} my heart... {Cheers|Many thanks|Best wishes|Take care|Thank you}! {Where|Exactly where} are your contact details though?|\\nIt's very {easy|simple|trouble-free|straightforward|effortless} to find out any {topic|matter} on {net|web} as compared to {books|textbooks}, as I found this {article|post|piece of writing|paragraph} at this {website|web site|site|web page}.|\\nDoes your {site|website|blog} have a contact page? I'm having {a tough time|problems|trouble} locating it but, I'd like to {send|shoot} you an {e-mail|email}. I've got some {creative ideas|recommendations|suggestions|ideas} for your blog you might be interested in hearing. Either way, great {site|website|blog} and I look forward to seeing it {develop|improve|expand|grow} over time.|\\n{Hola|Hey there|Hi|Hello|Greetings}! I've been {following|reading} your {site|web site|website|weblog|blog} for {a long time|a while|some time} now and finally got the {bravery|courage} to go ahead and give you a shout out from  {New Caney|Kingwood|Huffman|Porter|Houston|Dallas|Austin|Lubbock|Humble|Atascocita} {Tx|Texas}! Just wanted to {tell you|mention|say} keep up the {fantastic|excellent|great|good} {job|work}!|\\nGreetings from {Idaho|Carolina|Ohio|Colorado|Florida|Los angeles|California}! I'm {bored to tears|bored to death|bored} at work so I decided to {check out|browse} your {site|website|blog} on my iphone during lunch break. I {enjoy|really like|love} the {knowledge|info|information} you {present|provide} here and can't wait to take a look when I get home. I'm {shocked|amazed|surprised} at how {quick|fast} your blog loaded on my {mobile|cell phone|phone} .. I'm not even using WIFI, just 3G .. {Anyhow|Anyways}, {awesome|amazing|very good|superb|good|wonderful|fantastic|excellent|great} {site|blog}!|\\nIts {like you|such as you} {read|learn} my {mind|thoughts}! You {seem|appear} {to understand|to know|to grasp} {so much|a lot} {approximately|about} this, {like you|such as you} wrote the {book|e-book|guide|ebook|e book} in it or something. {I think|I feel|I believe} {that you|that you simply|that you just} {could|can} do with {some|a few} {%|p.c.|percent} to {force|pressure|drive|power} the message {house|home} {a bit|a little bit}, {however|but} {other than|instead of} that, {this is|that is} {great|wonderful|fantastic|magnificent|excellent} blog. {A great|An excellent|A fantastic} read. {I'll|I will} {definitely|certainly} be back.|\\nI visited {multiple|many|several|various} {websites|sites|web sites|web pages|blogs} {but|except|however} the audio {quality|feature} for audio songs {current|present|existing} at this {website|web site|site|web page} is {really|actually|in fact|truly|genuinely} {marvelous|wonderful|excellent|fabulous|superb}.|\\n{Howdy|Hi there|Hi|Hello}, i read your blog {occasionally|from time to time} and i own a similar one and i was just {wondering|curious} if you get a lot of spam {comments|responses|feedback|remarks}? If so how do you {prevent|reduce|stop|protect against} it, any plugin or anything you can {advise|suggest|recommend}? I get so much lately it's driving me {mad|insane|crazy} so any {assistance|help|support} is very much appreciated.|\\nGreetings! {Very helpful|Very useful} advice {within this|in this particular} {article|post}! {It is the|It's the} little changes {that make|which will make|that produce|that will make} {the biggest|the largest|the greatest|the most important|the most significant} changes. {Thanks a lot|Thanks|Many thanks} for sharing!|\\n{I really|I truly|I seriously|I absolutely} love {your blog|your site|your website}.. {Very nice|Excellent|Pleasant|Great} colors & theme. Did you {create|develop|make|build} {this website|this site|this web site|this amazing site} yourself? Please reply back as I'm {looking to|trying to|planning to|wanting to|hoping to|attempting to} create {my own|my very own|my own personal} {blog|website|site} and {would like to|want to|would love to} {know|learn|find out} where you got this from or {what the|exactly what the|just what the} theme {is called|is named}. {Thanks|Many thanks|Thank you|Cheers|Appreciate it|Kudos}!|\\n{Hi there|Hello there|Howdy}! This {post|article|blog post} {couldn't|could not} be written {any better|much better}! {Reading through|Looking at|Going through|Looking through} this {post|article} reminds me of my previous roommate! He {always|constantly|continually} kept {talking about|preaching about} this. {I will|I'll|I am going to|I most certainly will} {forward|send} {this article|this information|this post} to him. {Pretty sure|Fairly certain} {he will|he'll|he's going to} {have a good|have a very good|have a great} read. {Thank you for|Thanks for|Many thanks for|I appreciate you for} sharing!|\\n{Wow|Whoa|Incredible|Amazing}! This blog looks {exactly|just} like my old one! It's on a {completely|entirely|totally} different {topic|subject} but it has pretty much the same {layout|page layout} and design. {Excellent|Wonderful|Great|Outstanding|Superb} choice of colors!|\\n{There is|There's} {definately|certainly} {a lot to|a great deal to} {know about|learn about|find out about} this {subject|topic|issue}. {I like|I love|I really like} {all the|all of the} points {you made|you've made|you have made}.|\\n{You made|You've made|You have made} some {decent|good|really good} points there. I {looked|checked} {on the internet|on the web|on the net} {for more info|for more information|to find out more|to learn more|for additional information} about the issue and found {most individuals|most people} will go along with your views on {this website|this site|this web site}.|\\n{Hi|Hello|Hi there|What's up}, I {log on to|check|read} your {new stuff|blogs|blog} {regularly|like every week|daily|on a regular basis}. Your {story-telling|writing|humoristic} style is {awesome|witty}, keep {doing what you're doing|up the good work|it up}!|\\nI {simply|just} {could not|couldn't} {leave|depart|go away} your {site|web site|website} {prior to|before} suggesting that I {really|extremely|actually} {enjoyed|loved} {the standard|the usual} {information|info} {a person|an individual} {supply|provide} {for your|on your|in your|to your} {visitors|guests}? Is {going to|gonna} be {back|again} {frequently|regularly|incessantly|steadily|ceaselessly|often|continuously} {in order to|to} {check up on|check out|inspect|investigate cross-check} new posts|\\n{I wanted|I needed|I want to|I need to} to thank you for this {great|excellent|fantastic|wonderful|good|very good} read!! I {definitely|certainly|absolutely} {enjoyed|loved} every {little bit of|bit of} it. {I have|I've got|I have got} you {bookmarked|book marked|book-marked|saved as a favorite} {to check out|to look at} new {stuff you|things you} post…|\\n{Hi|Hello|Hi there|What's up}, just wanted to {mention|say|tell you}, I {enjoyed|liked|loved} this {article|post|blog post}. It was {inspiring|funny|practical|helpful}. Keep on posting!|\\nI {{leave|drop|{write|create}} a {comment|leave a response}|drop a {comment|leave a response}|{comment|leave a response}} {each time|when|whenever} I {appreciate|like|especially enjoy} a {post|article} on a {site|{blog|website}|site|website} or {I have|if I have} something to {add|contribute|valuable to contribute} {to the discussion|to the conversation}. {It is|Usually it is|Usually it's|It's} {a result of|triggered by|caused by} the {passion|fire|sincerness} {communicated|displayed} in the {post|article} I {read|looked at|browsed}. And {on|after} this {post|article} %BLOG_TITLE%. I {{was|was actually} moved|{was|was actually} excited} enough to {drop|{leave|drop|{write|create}}|post} a {thought|{comment|{comment|leave a response}a response}} {:-P|:)|;)|;-)|:-)} I {do have|actually do have} {{some|a few} questions|a couple of questions|2 questions} for you {if you {don't|do not|usually do not|tend not to} mind|if it's {allright|okay}}. {Is it|Could it be} {just|only|simply} me or {do|does it {seem|appear|give the impression|look|look as if|look like} like} {some|a few} of {the|these} {comments|responses|remarks} {look|appear|come across} {like they are|as if they are|like} {coming from|written by|left by} brain dead {people|visitors|folks|individuals}? :-P And, if you are {posting|writing} {on|at} {other|additional} {sites|social sites|online sites|online social sites|places}, {I'd|I would} like to {follow|keep up with} {you|{anything|everything} {new|fresh} you have to post}. {Could|Would} you {list|make a list} {all|every one|the complete urls} of {your|all your} {social|communal|community|public|shared} {pages|sites} like your {twitter feed, Facebook page or linkedin profile|linkedin profile, Facebook page or twitter feed|Facebook page, twitter feed, or linkedin profile}?|\\n{Hi there|Hello}, I enjoy reading {all of|through} your {article|post|article post}. I {like|wanted} to write a little comment to support you.|\\nI {always|constantly|every time} spent my half an hour to read this {blog|weblog|webpage|website|web site}'s {articles|posts|articles or reviews|content} {everyday|daily|every day|all the time} along with a {cup|mug} of coffee.|\\nI {always|for all time|all the time|constantly|every time} emailed this {blog|weblog|webpage|website|web site} post page to all my {friends|associates|contacts}, {because|since|as|for the reason that} if like to read it {then|after that|next|afterward} my {friends|links|contacts} will too.|\\nMy {coder|programmer|developer} is trying to {persuade|convince} me to move to .net from PHP. I have always disliked the idea because of the {expenses|costs}. But he's tryiong none the less. I've been using {Movable-type|WordPress} on {a number of|a variety of|numerous|several|various} websites for about a year and am {nervous|anxious|worried|concerned} about switching to another platform. I have heard {fantastic|very good|excellent|great|good} things about blogengine.net. Is there a way I can {transfer|import} all my wordpress {content|posts} into it? {Any kind of|Any} help would be {really|greatly} appreciated!|\\n{Hello|Hi|Hello there|Hi there|Howdy|Good day}! I could have sworn I've {been to|visited} {this blog|this web site|this website|this site|your blog} before but after {browsing through|going through|looking at} {some of the|a few of the|many of the} {posts|articles} I realized it's new to me. {Anyways|Anyhow|Nonetheless|Regardless}, I'm {definitely|certainly} {happy|pleased|delighted} {I found|I discovered|I came across|I stumbled upon} it and I'll be {bookmarking|book-marking} it and checking back {frequently|regularly|often}!|\\n{Terrific|Great|Wonderful} {article|work}! {This is|That is} {the type of|the kind of} {information|info} {that are meant to|that are supposed to|that should} be shared {around the|across the} {web|internet|net}. {Disgrace|Shame} on {the {seek|search} engines|Google} for {now not|not|no longer} positioning this {post|submit|publish|put up} {upper|higher}! Come on over and {talk over with|discuss with|seek advice from|visit|consult with} my {site|web site|website} . {Thank you|Thanks} =)|\\nHeya {i'm|i am} for the first time here. I {came across|found} this board and I find It {truly|really} useful & it helped me out {a lot|much}. I hope to give something back and {help|aid} others like you {helped|aided} me.|\\n{Hi|Hello|Hi there|Hello there|Howdy|Greetings}, {I think|I believe|I do believe|I do think|There's no doubt that} {your site|your website|your web site|your blog} {might be|may be|could be|could possibly be} having {browser|internet browser|web browser} compatibility {issues|problems}. {When I|Whenever I} {look at your|take a look at your} {website|web site|site|blog} in Safari, it looks fine {but when|however when|however, if|however, when} opening in {Internet Explorer|IE|I.E.}, {it has|it's got} some overlapping issues. {I just|I simply|I merely} wanted to {give you a|provide you with a} quick heads up! {Other than that|Apart from that|Besides that|Aside from that}, {fantastic|wonderful|great|excellent} {blog|website|site}!|\\n{A person|Someone|Somebody} {necessarily|essentially} {lend a hand|help|assist} to make {seriously|critically|significantly|severely} {articles|posts} {I would|I might|I'd} state. {This is|That is} the {first|very first} time I frequented your {web page|website page} and {to this point|so far|thus far|up to now}? I {amazed|surprised} with the {research|analysis} you made to {create|make} {this actual|this particular} {post|submit|publish|put up} {incredible|amazing|extraordinary}. {Great|Wonderful|Fantastic|Magnificent|Excellent} {task|process|activity|job}!|\\nHeya {i'm|i am} for {the primary|the first} time here. I {came across|found} this board and I {in finding|find|to find} It {truly|really} {useful|helpful} & it helped me out {a lot|much}. {I am hoping|I hope|I'm hoping} {to give|to offer|to provide|to present} {something|one thing} {back|again} and {help|aid} others {like you|such as you} {helped|aided} me.|\\n{Hello|Hi|Hello there|Hi there|Howdy|Good day|Hey there}! {I just|I simply} {would like to|want to|wish to} {give you a|offer you a} {huge|big} thumbs up {for the|for your} {great|excellent} {info|information} {you have|you've got|you have got} {here|right here} on this post. {I will be|I'll be|I am} {coming back to|returning to} {your blog|your site|your website|your web site} for more soon.|\\nI {always|all the time|every time} used to {read|study} {article|post|piece of writing|paragraph} in news papers but now as I am a user of {internet|web|net} {so|thus|therefore} from now I am using net for {articles|posts|articles or reviews|content}, thanks to web.|\\nYour {way|method|means|mode} of {describing|explaining|telling} {everything|all|the whole thing} in this {article|post|piece of writing|paragraph} is {really|actually|in fact|truly|genuinely} {nice|pleasant|good|fastidious}, {all|every one} {can|be able to|be capable of} {easily|without difficulty|effortlessly|simply} {understand|know|be aware of} it, Thanks a lot.|\\n{Hi|Hello} there, {I found|I discovered} your {blog|website|web site|site} {by means of|via|by the use of|by way of} Google {at the same time as|whilst|even as|while} {searching for|looking for} a {similar|comparable|related} {topic|matter|subject}, your {site|web site|website} {got here|came} up, it {looks|appears|seems|seems to be|appears to be like} {good|great}. {I have|I've} bookmarked it in my google bookmarks.\\n{Hello|Hi} there, {simply|just} {turned into|became|was|become|changed into} {aware of|alert to} your {blog|weblog} {thru|through|via} Google, {and found|and located} that {it is|it's} {really|truly} informative. {I'm|I am} {gonna|going to} {watch out|be careful} for brussels. {I will|I'll} {appreciate|be grateful} {if you|should you|when you|in the event you|in case you|for those who|if you happen to} {continue|proceed} this {in future}. {A lot of|Lots of|Many|Numerous} {other folks|folks|other people|people} {will be|shall be|might be|will probably be|can be|will likely be} benefited {from your|out of your} writing. Cheers!|\\n{I am|I'm} curious to find out what blog {system|platform} {you have been|you happen to be|you are|you're} {working with|utilizing|using}? I'm {experiencing|having} some {minor|small} security {problems|issues} with my latest {site|website|blog} and {I would|I'd} like to find something more {safe|risk-free|safeguarded|secure}. Do you have any {solutions|suggestions|recommendations}?|\\n{I am|I'm} {extremely|really} impressed with your writing skills {and also|as well as} with the layout on your {blog|weblog}. Is this a paid theme or did you {customize|modify} it yourself? {Either way|Anyway} keep up the {nice|excellent} quality writing, {it's|it is} rare to see a {nice|great} blog like this one {these days|nowadays|today}.|\\n{I am|I'm} {extremely|really} {inspired|impressed} {with your|together with your|along with your} writing {talents|skills|abilities} {and also|as {smartly|well|neatly} as} with the {layout|format|structure} {for your|on your|in your|to your} {blog|weblog}. {Is this|Is that this} a paid {subject|topic|subject matter|theme} or did you {customize|modify} it {yourself|your self}? {Either way|Anyway} {stay|keep} up the {nice|excellent} {quality|high quality} writing, {it's|it is} {rare|uncommon} {to peer|to see|to look} a {nice|great} {blog|weblog} like this one {these days|nowadays|today}..|\\n{Hi|Hello}, Neat post. {There is|There's} {a problem|an issue} {with your|together with your|along with your} {site|web site|website} in {internet|web} explorer, {may|might|could|would} {check|test} this? IE {still|nonetheless} is the {marketplace|market} {leader|chief} and {a large|a good|a big|a huge} {part of|section of|component to|portion of|component of|element of} {other folks|folks|other people|people} will {leave out|omit|miss|pass over} your {great|wonderful|fantastic|magnificent|excellent} writing {due to|because of} this problem.|\\n{I'm|I am} not sure where {you are|you're} getting your {info|information}, but {good|great} topic. I needs to spend some time learning {more|much more} or understanding more. Thanks for {great|wonderful|fantastic|magnificent|excellent} {information|info} I was looking for this {information|info} for my mission.|\\n{Hi|Hello}, i think that i saw you visited my {blog|weblog|website|web site|site} {so|thus} i came to “return the favor”.{I am|I'm} {trying to|attempting to} find things to {improve|enhance} my {website|site|web site}!I suppose its ok to use {some of|a few of} your ideas!!|\\n{Hi|Hello}, {i think|i feel|i believe} that i {saw|noticed} you visited my {blog|weblog|website|web site|site} {so|thus} i {got here|came} to {go back|return} the {prefer|choose|favor|want|desire}?.{I am|I'm} {trying to|attempting to} {in finding|find|to find} {things|issues} to {improve|enhance} my {website|site|web site}!{I guess|I assume|I suppose} its {good enough|ok|adequate} {to use|to make use of} {some of|a few of} your {ideas|concepts|ideas}!!|\\n{Hello|Hi} there, just became {aware of|alert to} your blog through Google, and found that {it is|it's} {really|truly} informative. {I'm|I am} {gonna|going to} watch out for brussels. {I will|I'll} {appreciate|be grateful} if you continue this {in future}. {A lot of|Lots of|Many|Numerous} people will be benefited from your writing. Cheers!|\\n{I'm|I am} {now not|not|no longer} {sure|positive|certain} {where|the place} {you are|you're} getting your {info|information}, {however|but} {good|great} topic. I {needs to|must} spend {a while|some time} {studying|learning|finding out} {more|much more} or {working out|understanding|figuring out} more. {Thank you|Thanks} for {great|wonderful|fantastic|magnificent|excellent} {information|info} {I used to be|I was} {looking for|in search of|on the lookout for|searching for} this {information|info} for my mission.|\\n{Hi|Hello} my {family member|loved one|friend}! I {want to|wish to} say that this {article|post} is {awesome|amazing}, {great|nice} written and {come with|include} {almost|approximately} all {important|significant|vital} infos. {I'd|I would} like {to peer|to see|to look} {more|extra} posts like this .|\\n{hi|hello}!,{I love|I really like|I like} your writing {so|very} {so much|much|a lot}! {percentage|proportion|share} we {keep in touch|keep up a correspondence|communicate|be in contact} {more|extra} {approximately|about} your {post|article} on AOL? I {need|require} {an expert|a specialist} {in this|on this} {space|area|house} {to solve|to unravel|to resolve} my problem. {May be|Maybe} {that is|that's} you! {Taking a look|Looking|Having a look} {forward|ahead} {to peer|to see|to look} you. |\\n{I am|I'm} really {loving|enjoying} the theme/design of your {site|weblog|web site|website|blog}. Do you ever run into any {web browser|internet browser|browser} compatibility {problems|issues}? A {number of|handful of|couple of|small number of|few of} my blog {audience|visitors|readers} have complained about my {blog|website|site} not {operating|working} correctly in Explorer but looks great in {Safari|Chrome|Opera|Firefox}. Do you have any {solutions|ideas|advice|tips|suggestions|recommendations} to help fix this {issue|problem}?|\\n{Good|Great|Very good} {info|information}. Lucky me {I found|I discovered|I came across|I ran across|I recently found} {your website|your site|your blog} {by accident|by chance} (stumbleupon). {I have|I've} {bookmarked it|saved it|book marked it|book-marked it|saved as a favorite} for later!|\\nIt's {great|enormous|impressive|wonderful|fantastic} that you are getting {ideas|thoughts} from this {article|post|piece of writing|paragraph} as well as from our {discussion|argument|dialogue} made {here|at this place|at this time}.|\\nIf you {want|desire|wish for|would like} to {increase|improve|grow} your {experience|knowledge|familiarity|know-how} {only|simply|just} keep visiting this {website|web site|site|web page} and be updated with the {latest|newest|most recent|most up-to-date|hottest} {news|information|gossip|news update} posted here.|\\nWhat's {Taking place|Happening|Going down} {i'm|i am} new to this, I stumbled upon this {I have|I've} {found|discovered} It {positively|absolutely} {helpful|useful} and it has {helped|aided} me out loads. {I am hoping|I hope|I'm hoping} to {give a contribution|contribute} & {assist|aid|help} {other|different} {users|customers} like its {helped|aided} me. {Good|Great} job.|\\n{Wow|Hurrah}, that's what I was {looking|searching|seeking|exploring} for, what a {stuff|information|data|material}! {present|existing} here at this {blog|weblog|webpage|website|web site}, thanks admin of this {website|web site|site|web page}.|\\nIf you {want|desire|wish for|would like} to {take|get|obtain} {much|a great deal|a good deal} from this {article|post|piece of writing|paragraph} then you have to apply {such|these} {strategies|techniques|methods} to your won {blog|weblog|webpage|website|web site}.|\\nIt's an {awesome|remarkable|amazing} {article|post|piece of writing|paragraph} {for|designed for|in favor of|in support of} all the {internet|web|online} {users|people|viewers|visitors}; they will {take|get|obtain} {benefit|advantage} from it I am sure.|\\n{I've|I have} {read|learn} {some|several|a few} {just right|good|excellent} stuff here. {Definitely|Certainly} {worth|value|price} bookmarking for revisiting. I {wonder|surprise} how {so much|much|a lot} {attempt|effort} {you put|you set|you place} to {create|make} {this type of|this kind of|this sort of|such a|one of these|any such|the sort of} {great|wonderful|fantastic|magnificent|excellent} informative {site|web site|website}.|\\n{This is a|That is a} {very good|great|good|really good} tip {especially|particularly} to those {new to|fresh to} the blogosphere. {Brief|Short|Simple} but very {accurate|precise} {information|info}… {Thanks for|Thank you for|Many thanks for|Appreciate your} sharing this one. A must read {article|post}!|\\n{I've|I have} been exploring for {a little bit|a little|a bit} for any {high-quality|high quality} articles or {blog|weblog} posts {in this|on this} {kind of|sort of} {space|area|house} . Exploring in Yahoo I {at last|eventually|finally|ultimately} stumbled upon this {site|web site|website}. {Reading|Studying} this {info|information} So {i'm|i am} {satisfied|glad|happy} to {express|show|exhibit|convey} that {I have|I've} {a very|an incredibly} {just right|good|excellent} uncanny feeling I {found out|came upon|discovered} {exactly|just} what I needed. I {so much|such a lot|most} {without a doubt|no doubt|undoubtedly|surely|certainly|for sure|definitely|unquestionably|indisputably|indubitably} will make {certain|sure} to {don?t|do not} {put out of your mind|forget|fail to remember|overlook|disregard|omit} this {site|web site|website} {and give|and provides} it {a look|a glance} {on {a constant|a continuing|a relentless} basis|regularly}.|\\nHaving read this {I thought it was|I believed it was} {very|really|extremely|rather} {informative|enlightening}. I appreciate you {taking the time|finding the time|spending some time} {and effort|and energy} to put {this article|this short article|this informative article|this information|this content} together. I once again find {myself|myself personally} spending {way too much|a significant amount of|a lot of} time both reading and {commenting|leaving comments|posting comments}. But so what, it was still {worth it|worthwhile}!|\\nQuality {articles|posts|articles or reviews|content} is the {key|secret|important|main|crucial} to {attract|be a focus for|invite|interest} the {users|people|viewers|visitors} to {visit|go to see|pay a visit|pay a quick visit} the {website|web site|site|web page}, that's what this {website|web site|site|web page} is providing.|\\nLink exchange is nothing else {but|except|however} it is {only|simply|just} placing the other person's {blog|weblog|webpage|website|web site} link on your page at {proper|appropriate|suitable} place and other person will also do {same|similar} {for|in favor of|in support of} you.|\\nI have read so many {articles|posts|articles or reviews|content} {regarding|concerning|about|on the topic of} the blogger lovers {but|except|however} this {article|post|piece of writing|paragraph} is {really|actually|in fact|truly|genuinely} a {nice|pleasant|good|fastidious} {article|post|piece of writing|paragraph}, keep it up.|\\n{Really|Actually|In fact|Truly|Genuinely} {no matter if|when} someone doesn't {understand|know|be aware of} {then|after that|afterward} its up to other {users|people|viewers|visitors} that they will {help|assist}, so here it {happens|occurs|takes place}.|\\nYou {can|could} {definitely|certainly} see your {enthusiasm|expertise|skills} {in the|within the} {article|work} you write. {The arena|The world|The sector} hopes for {more|even more} passionate writers {like you|such as you} who {aren't|are not} afraid {to mention|to say} how they believe. {Always|All the time|At all times} {go after|follow} your heart.|\\n{Great|Excellent|Good|Very good} {post|article}. {I am|I'm|I will be} {facing|dealing with|going through|experiencing} {a few of these|some of these|many of these} issues as well..|\\n{Great|Excellent|Good} {blog|web site|site} {you have|you've got|you have got} here.. It's {hard to find|difficult to find} {quality|high quality|good quality|high-quality|excellent} writing like yours {these days|nowadays}. {I really|I truly|I seriously|I honestly} appreciate {people like you|individuals like you}! Take care!!|\\nI was {recommended|suggested} this {blog|website|web site} by my cousin. {I am|I'm} not sure whether this post is written by him as {no one|nobody} else know such detailed about my {problem|difficulty|trouble}. {You are|You're} {amazing|wonderful|incredible}! Thanks!|\\n{Great|Excellent|Wonderful|Good|Very good} {article|post}! {We will be|We are} linking {to this|to this particularly} great {article|post|content} on {our site|our website}. Keep up {the good|the great} writing.|\\nOh my goodness! {Amazing|Incredible|Awesome|Impressive} article dude! {Thank you|Thanks|Many thanks|Thank you so much}, However I am {experiencing|encountering|going through|having} {issues with|difficulties with|problems with|troubles with} your RSS. I don't {know|understand} {why|the reason why} {I am unable to|I can't|I cannot} {subscribe to|join} it. Is there {anyone else|anybody else|anybody} {getting|having} {identical|the same|similar} RSS {problems|issues}? {Anyone who|Anybody who|Anyone that} knows {the solution|the answer} {will you|can you} kindly respond? {Thanx|Thanks}!!|\\n{Very good|Amazing|Awesome|Superb|Wonderful|Fantastic|Excellent|Great} blog! Do you have any {recommendations|hints|tips and hints|helpful hints|suggestions|tips} for aspiring writers? I'm {planning|hoping} to start my own {website|site|blog} soon but I'm a little lost on everything. Would you {propose|advise|suggest|recommend} starting with a free platform like Wordpress or go for a paid option? There are so many {choices|options} out there that I'm {totally|completely} {confused|overwhelmed} .. Any {recommendations|suggestions|ideas|tips}? {Thanks a lot|Bless you|Kudos|Appreciate it|Cheers|Thank you|Many thanks|Thanks}!|\\nIt's {hard to find|difficult to find|nearly impossible to find|hard to come by} {knowledgeable|educated|well-informed|experienced} people {on this|about this|for this|in this particular} {topic|subject}, {but you|however, you} {sound like|seem like} you know what you're talking about! Thanks|\\nI {don't|do not} even {know the way|understand how|know how} {I stopped|I ended|I finished} up {here|right here}, {however|but} {I thought|I assumed|I believed} this {post|submit|publish|put up} {used to be|was|was once} {good|great}. I {don't|do not} {realize|recognize|understand|recognise|know} who {you are|you're|you might be} {however|but} {definitely|certainly} {you are|you're} going to a {famous|well-known} blogger {if you|should you|when you|in the event you|in case you|for those who|if you happen to} {are not|aren't} already. Cheers!|\\n{Nice|Good|Fastidious} {replies|respond|answers|answer back|response} in return of this {question|query|difficulty|issue|matter} with {solid|firm|real|genuine} arguments and {describing|explaining|telling} {everything|all|the whole thing} {regarding|concerning|about|on the topic of} that.|\\nI {don't|do not} even know how I ended up here, but I thought this post was {good|great}. I {don't|do not} know who you are but {definitely|certainly} {you are|you're} going to a famous blogger if you {are not|aren't} already ;) Cheers!|\\n{We are|We're} {a group|a gaggle|a bunch} of volunteers and {starting|opening} {a new|a brand new} scheme in our community. Your {site|web site|website} {provided|offered} us with {helpful|useful|valuable} {information|info} to work on. {You have|You've} {performed|done} {an impressive|a formidable} {task|process|activity|job} and our {whole|entire} {community|group|neighborhood} {will be|shall be|might be|will probably be|can be|will likely be} {grateful|thankful} to you.|\\n{Good|Fine|Excellent} way of {describing|explaining|telling}, and {nice|pleasant|good|fastidious} {article|post|piece of writing|paragraph} to {take|get|obtain} {data|information|facts} {regarding|concerning|about|on the topic of} my presentation {topic|subject|subject matter|focus}, which i am going to {deliver|convey|present} in {university|institution of higher education|college|academy|school}.|\\n{Nice|Excellent|Great} {blog|weblog} {here|right here}! {Also|Additionally} your {website|site|web site} {a lot|lots|so much|quite a bit|rather a lot|loads} up {fast|very fast}! What {host|web host} are you {the use of|using|the usage of}? Can {I am getting|I get} your {associate|affiliate} {link|hyperlink} {for your|on your|in your|to your} host? I {desire|want|wish} my {website|site|web site} loaded up as {fast|quickly} as yours lol|\\nI {love|really like} your blog.. very nice colors & theme. Did you {create|design|make} this website yourself or did you hire someone to do it for you? Plz {reply|answer back|respond} as I'm looking to {create|design|construct} my own blog and would like to {know|find out} where u got this from. {thanks|thanks a lot|kudos|appreciate it|cheers|thank you|many thanks}|\\n{We are|We're} a group of volunteers and {starting|opening} a new scheme in our community. Your {site|web site|website} {provided|offered} us with valuable {information|info} to work on. {You have|You've} done {an impressive|a formidable} job and our {whole|entire} community will be {grateful|thankful} to you.|\\nAppreciate {the recommendation|this post}. {Will|Let me} try it out.|\\nAsking questions are {really|actually|in fact|truly|genuinely} {nice|pleasant|good|fastidious} thing if you are not understanding {anything|something} {fully|completely|entirely|totally}, {but|except|however} this {article|post|piece of writing|paragraph} {provides|offers|gives|presents} {nice|pleasant|good|fastidious} understanding {even|yet}.|\\nHave you ever {considered|thought} about {including|adding} a little bit more than just your articles? I mean, what you say is {valuable|fundamental|important} and {all|everything}. {Nevertheless|However|But} {think of|just imagine|think about|imagine} if you added some great {visuals|graphics|photos|pictures|images} or {video clips|videos} to give your posts more, \"pop\"! Your content is excellent but with {images|pics} and {clips|video clips|videos}, this {site|website|blog} could {undeniably|certainly|definitely} be one of the {most beneficial|very best|greatest|best} in its {niche|field}. {Awesome|Amazing|Very good|Terrific|Superb|Good|Wonderful|Fantastic|Excellent|Great} blog!|\\nYour style {is so|is really|is very|is} unique {compared to|in comparison to} {other people|other folks} {I have|I've} read stuff from. {Thank you for|Thanks for|Many thanks for|I appreciate you for} posting {when you have|when you've got} the opportunity, Guess {I will|I'll} just {bookmark|book mark} {this page|this site|this web site|this blog}.|\\n{Pretty|Very} {great|nice} post. I {simply|just} stumbled upon your {blog|weblog} and {wanted|wished} {to mention|to say} that {I have|I've} {really|truly} {enjoyed|loved} {browsing|surfing around} your {blog|weblog} posts. {In any case|After all} {I'll|I will} be subscribing {for your|on your|in your|to your} {feed|rss feed} and {I am hoping|I hope|I'm hoping} you write {again|once more} {soon|very soon}!|\\nI'm {impressed|amazed}, {I must say|I have to admit}. {Rarely|Seldom} do I {encounter|come across} a blog that's {both|equally|both equally} educative and {entertaining|engaging|interesting|amusing}, and {let me tell you|without a doubt}, {you have|you've} hit the nail on the head. {The issue is|The problem is} {something that|something which|something|an issue that} {not enough|too few} {people are|folks are|men and women are} speaking intelligently about. {I am|I'm|Now i'm} very happy {that I|I} {stumbled across|found|came across} this {in my|during my} {search for|hunt for} something {relating to this|concerning this|regarding this}.|\\nHmm it {seems|appears|looks} like your {site|website|blog} ate my first comment (it was {extremely|super} long) so I guess I'll just sum it up what I {submitted|had written|wrote} and say, I'm thoroughly enjoying your blog. I {as well|too} am an aspiring blog {blogger|writer} but I'm still new to {the whole thing|everything}. Do you have any {helpful hints|recommendations|tips and hints|points|suggestions|tips} for {inexperienced|first-time|rookie|novice|beginner|newbie} blog writers? I'd {certainly|definitely|genuinely|really} appreciate it.|\\n{Pretty|Very} nice post. I just stumbled upon your {blog|weblog} and {wanted|wished} to say that {I have|I've} {really|truly} enjoyed {browsing|surfing around} your blog posts. {In any case|After all} {I'll|I will} be subscribing to your {feed|rss feed} and I hope you write again {soon|very soon}!|\\nI like the {valuable|helpful} {information|info} you provide in your articles. {I will|I'll} bookmark your {weblog|blog} and check again here {frequently|regularly}. {I am|I'm} quite {certain|sure} {I will|I'll} learn {lots of|many|a lot of|plenty of|many} new stuff right here! {Good luck|Best of luck} for the next!|\\nIf you are going for {best|most excellent|finest} contents like {me|I do|myself}, {only|simply|just} {visit|go to see|pay a visit|pay a quick visit} this {website|web site|site|web page} {everyday|daily|every day|all the time} {because|since|as|for the reason that} it {provides|offers|gives|presents} {quality|feature} contents, thanks|\\nWrite more, thats all I have to say. Literally, it seems as though you relied on the video to make your point. You {clearly|definitely|obviously} know what youre talking about, why {waste|throw away} your intelligence on just posting videos to your {blog|site|weblog} when you could be giving us something {enlightening|informative} to read?|\\n{Highly|Very} {energetic|descriptive} {blog|article|post}, I {enjoyed|liked|loved} that {a lot|bit}. Will there be a part 2?|\\n{Nice|Excellent|Great} post. {I used to be|I was} checking {continuously|constantly} this {blog|weblog} and {I am|I'm} {inspired|impressed}! {Very|Extremely} {useful|helpful} {information|info} {specially|particularly|specifically} the {final|last|ultimate|remaining|closing} {phase|part|section} :) I {take care of|care for|deal with|maintain|handle} such {info|information} {a lot|much}. {I used to be|I was} {seeking|looking for} this {particular|certain} {info|information} for a {long time|very {long|lengthy} time}. {Thank you|Thanks} and {good luck|best of luck}. |\\n{Nice|Excellent|Great} post. I was checking {continuously|constantly} this blog and {I am|I'm} impressed! {Very|Extremely} {useful|helpful} {information|info} {specially|particularly|specifically} the last part :) I care for such {info|information} {a lot|much}. I was {seeking|looking for} this {particular|certain} {info|information} for a {long time|very long time}. Thank you and {good luck|best of luck}.| \\n{Great|Awesome} {post|article}.|\\nAfter {checking out|looking at|looking into|looking over|exploring|going over} {a few of the|a number of the|a handful of the} {blog posts|blog articles|articles} on your {website|web site|site|web page|blog}, {I truly|I really|I honestly|I seriously} {like your|appreciate your} {way of|technique of} {blogging|writing a blog}. I {bookmarked|saved|book marked|book-marked|added|saved as a favorite} it to my bookmark {website|site|webpage} list and will be checking back {soon|in the near future}. {Please check out|Take a look at|Please visit} my {web site|website} {as well|too} and {let me know|tell me} {what you think|how you feel|your opinion}.|\\n{An interesting|A fascinating|An intriguing|A motivating} discussion {is worth|is definitely worth} comment. {I think|I believe|I do believe|I do think|There's no doubt that} {that you should|that you ought to|that you need to} {write|publish} {more on|more about} this {topic|subject|issue|subject matter}, {it might not|it may not} be a taboo {subject|matter} but {generally|usually|typically} {people do not|people don't|folks don't} {speak about|discuss|talk about} {such|these} {topics|subjects|issues}. To the next! {Cheers|Many thanks|All the best|Kind regards|Best wishes}!!|\\n{of course|obviously|naturally|certainly} like your {web-site|website|web site} {however|but} you {need to|have to} {test|check|take a look at} the spelling on {quite a few|several} of your posts. {A number|Several|Many} of them are rife with spelling {problems|issues} and I {in finding|find|to find} it very {bothersome|troublesome} {to tell|to inform} {the truth|the reality} {on the other hand|however|then again|nevertheless} {I will|I'll} {certainly|surely|definitely} come {back|again} again.|\\nI do {accept as true with|agree with|believe|consider|trust} {all the|all of the} {ideas|concepts|ideas} {you have|you've} {presented|introduced|offered} {for your|on your|in your|to your} post. {They are|They're} {very|really} convincing {and will|and can} {definitely|certainly} work. {Still|Nonetheless}, the posts are {too|very} {brief|quick|short} for {newbies|beginners|novices|starters}. {May just|May|Could} you please {extend|prolong|lengthen} them {a bit|a little} from {next|subsequent} time? {Thank you|Thanks} for the post.|\\n{My spouse and  I|We|My partner and I} stumbled over here {|coming from a|from a|by a} different {web page|website|page|web address} and thought I {might|may as well|might as well|should} check things out. I like what I see so {now i am|now i'm|i am just} following you. Look forward to {going over|exploring|finding out about|looking over|checking out|looking at|looking into} your web page {again|yet again|for a second time|repeatedly}.|\\n{Very nice|Excellent|Good|Very good} {post|article|write-up|blog post}. I {certainly|definitely|absolutely} {love|appreciate} {this website|this site}. {Keep it up|Continue the good work|Stick with it|Keep writing|Thanks}!|\\nHave you ever {thought about|considered} {publishing|creating|writing} an {e-book|ebook} or guest authoring on other {sites|websites|blogs}? I have a blog {based upon|centered|based} on the same {information|ideas|subjects|topics} you discuss and would {really like|love} to have you share some stories/information. I know my {subscribers|audience|viewers|visitors|readers} would {enjoy|value|appreciate} your work. If {you are|you're} even remotely interested, feel free to {send|shoot} me an {e mail|e-mail|email}.|\\n{My spouse and I|We|My partner and I} stumbled over here {|coming from a|from a|by a} different {web page|website|page|web address} and thought I {might|may as well|might as well|should} check things out. I like what I see so {now i am|now i'm|i am just} following you. Look forward to {going over|exploring|finding out about|looking over|checking out|looking at|looking into} your web page {again|yet again|for a second time|repeatedly}.|\\n{Nice|Excellent|Great} blog here! Also your {website|site|web site} loads up {fast|very fast}! What {host|web host} are you using? Can I get your affiliate link to your host? I wish my {website|site|web site} loaded up as {fast|quickly} as yours lol|\\n{Hello|Greetings|Hey there|Hey|Good day|Howdy|Hi there|Hello there|Hi}! I know this is {kinda|somewhat|kind of} off topic but I was wondering which blog platform are you using for this {site|website}? I'm getting {tired|fed up|sick and tired} of Wordpress because I've had {issues|problems} with hackers and I'm looking at {options|alternatives} for another platform. I would be {great|awesome|fantastic} if you could point me in the direction of a good platform.|\\n{Hello|Greetings|Hey there|Hey|Good day|Howdy|Hi there|Hello there|Hi}! I know this is {kinda|kind of|somewhat} off topic but I was wondering if you knew where I could {find|get|locate} a captcha plugin for my comment form? I'm using the same blog platform as yours and I'm having {trouble|difficulty|problems} finding one? Thanks a lot!|\\n{Hello|Greetings|Hey there|Hey|Good day|Howdy|Hi there|Hello there|Hi}! This is my first visit to your blog! We are a {group|collection|team} of volunteers and starting a new {initiative|project} in a community in the same niche. Your blog provided us {valuable|useful|beneficial} information to work on. You have done a {marvellous|outstanding|extraordinary|wonderful} job!|\\n{When I|After I} {originally|initially} {commented|left a comment} I {seem to have|appear to have} {clicked|clicked on} the -Notify me when new comments are added- checkbox {and now|and from now on} {each time a|every time a|whenever a} comment is added {I get|I recieve|I receive} {four|4} emails {with the same|with the exact same} comment. {Is there|Perhaps there is|There has to be} {a way|a means|an easy method} {you can|you are able to} remove me from that service? {Thanks|Many thanks|Thank you|Cheers|Thanks a lot|Appreciate it|Kudos}!|\\n{First off|First of all} {I want to|I would like to} say {great|awesome|terrific|superb|wonderful|fantastic|excellent} blog! I had a quick question {that|in which|which} I'd like to ask {if you don't|if you do not} mind. I was {curious|interested} {to know|to find out} how you center yourself and clear {your mind|your thoughts|your head} {before|prior to} writing. {I have|I've} had {a hard time|a tough time|a difficult time|trouble|difficulty} clearing my {mind|thoughts} in getting my {thoughts|ideas} {out|out there}. {I do|I truly do} {enjoy|take pleasure in} writing {but it|however it} just seems like the first 10 to 15 minutes {are|are generally|are usually|tend to be} {wasted|lost} {just|simply just} trying to figure out how to begin. Any {suggestions|ideas|recommendations} or {tips|hints}? {Thanks|Kudos|Appreciate it|Cheers|Thank you|Many thanks}!|\\n{This blog|This website|This site} was... {how do I|how do you} say it? Relevant!! Finally {I have found|I've found} {something that|something which} helped me. {Thanks|Many thanks|Thank you|Cheers|Thanks a lot|Appreciate it|Kudos}!|\\nEverything is very open with a {very clear|clear|precise|really clear} {explanation|description|clarification} of the {issues|challenges}. It was {truly|really|definitely} informative. {Your website is|Your site is} {very useful|very helpful|extremely helpful|useful}. {Thanks for|Thank you for|Many thanks for} sharing!|\\nThis design is {wicked|spectacular|steller|incredible}! You {certainly|obviously|most certainly|definitely} know how to keep a reader {entertained|amused}. Between your wit and your videos, I was almost moved to start my own blog (well, almost...HaHa!) {Great|Wonderful|Fantastic|Excellent} job. I really {enjoyed|loved} what you had to say, and more than that, how you presented it. Too cool!|\\nIt's going to be {end|finish|ending} of mine day, {but|except|however} before {end|finish|ending} I am reading this {great|enormous|impressive|wonderful|fantastic} {article|post|piece of writing|paragraph} to {increase|improve} my {experience|knowledge|know-how}.|\\nI {visit|go to see|pay a visit|pay a quick visit} {everyday|daily|each day|day-to-day|every day} {some|a few} {websites|sites|web sites|web pages|blogs} and {blogs|websites|information sites|sites} to read {articles|posts|articles or reviews|content}, {but|except|however} this {blog|weblog|webpage|website|web site} {provides|offers|gives|presents} {quality|feature} based {articles|posts|content|writing}.|\\n{Hey|Hi there|Heya|Hey there|Hi|Hello}! I just wanted to ask if you ever have any {problems|trouble|issues} with hackers? My last blog (wordpress) was hacked and I ended up losing {months|many months|a few months|several weeks} of hard work due to no {backup|data backup|back up}. Do you have any {solutions|methods} to {prevent|protect against|stop} hackers?|\\nI think the admin of this {website|web site|site|web page} is {really|actually|in fact|truly|genuinely} working hard {for|in favor of|in support of} his {website|web site|site|web page}, {because|since|as|for the reason that} here every {stuff|information|data|material} is quality based {stuff|information|data|material}.|\\n{Now|At this time|At this moment|Right away} I am {going|going away|ready} to do my breakfast, {after|later than|once|when|afterward} having my breakfast coming {again|yet again|over again} to read {more|additional|further|other} news.|\\nI {like the|just like the} {valuable|helpful} {information|info} you {supply|provide} {for your|on your|in your|to your} articles. {I will|I'll} bookmark your {weblog|blog} and {test|check|take a look at} {again|once more} {here|right here} {frequently|regularly}. {I am|I'm} {rather|quite|somewhat|slightly|fairly|relatively|moderately|reasonably} {certain|sure} {I will|I'll} {be informed|be told|learn} {lots of|many|a lot of|plenty of|many} new stuff {right|proper} {here|right here}! {Good luck|Best of luck} for {the following|the next}!|\\nI think this is {one of the|among the} most {important|significant|vital} {information|info} for me. And {i'm|i am} glad reading your article. But {wanna|want to|should} remark on {few|some} general things, The {website|site|web site} style is {perfect|ideal|great|wonderful}, the articles is really {excellent|nice|great} : D. Good job, cheers|\\nIt's a {shame|pity} you don't have a donate button! I'd {most certainly|without a doubt|certainly|definitely} donate to this {superb|brilliant|fantastic|excellent|outstanding} blog! I {suppose|guess} for now i'll settle for {book-marking|bookmarking} and adding your RSS feed to my Google account. I look forward to {fresh|brand new|new} updates and will {talk about|share} this {blog|site|website} with my Facebook group. {Chat|Talk} soon!|\\nI’m not that much of a {online|internet} reader to be honest but your {blogs|sites} really nice, keep it up! I'll go ahead and bookmark your {site|website} to come back {later|down the road|in the future|later on}. {Cheers|All the best|Many thanks}|\\nThis {article|post|piece of writing|paragraph} is {really|actually|in fact|truly|genuinely} a {nice|pleasant|good|fastidious} one it {helps|assists} new {internet|web|net|the web} {users|people|viewers|visitors}, who are wishing {for|in favor of} blogging.|\\n{It's|It is} {in point of fact|actually|really|in reality|truly} a {nice|great} and {helpful|useful} piece of {information|info}. {I'm|I am} {satisfied|glad|happy} {that you|that you simply|that you just} shared this {helpful|useful} {info|information} with us. Please {stay|keep} us {informed|up to date} like this. {Thanks|Thank you} for sharing.|\\nThis {article|post|piece of writing|paragraph} {provides|offers|gives|presents} clear idea {for|designed for|in favor of|in support of} the new {users|people|viewers|visitors} of blogging, that {really|actually|in fact|truly|genuinely} how to do {blogging|blogging and site-building|running a blog}.|\\n{Hi|Greetings|Hiya|Hey|Hey there|Howdy|Hello there|Hi there|Hello}! Quick question that's {completely|entirely|totally} off topic. Do you know how to make your site mobile friendly? My {blog|site|web site|website|weblog} looks weird when {viewing|browsing} from my {iphone|iphone4|iphone 4|apple iphone}. I'm trying to find a {theme|template} or plugin that might be able to {fix|correct|resolve} this {problem|issue}. If you have any {suggestions|recommendations}, please share. {Thanks|With thanks|Appreciate it|Cheers|Thank you|Many thanks}!|\\n{It's|It is|Its} not my first time to {visit|go to see|pay a visit|pay a quick visit} this {website|web site|site|web page}, i am {visiting|browsing} this {website|web site|site|web page} dailly and {take|get|obtain} {nice|pleasant|good|fastidious} {data|information|facts} from here {everyday|daily|every day|all the time}.|\\n{Fascinating|Nice|Amazing|Interesting|Neat|Great|Awesome|Cool} blog! Is your theme custom made or did you download it from somewhere? A {design|theme} like yours with a few simple {adjustements|tweeks} would really make my blog {shine|jump out|stand out}. Please let me know where you got your {design|theme}. {Thanks a lot|Bless you|Kudos|With thanks|Appreciate it|Cheers|Thank you|Many thanks|Thanks}|\\nThis {article|post|piece of writing|paragraph} will {help|assist} the internet {users|people|viewers|visitors} for {creating|building up|setting up} new {blog|weblog|webpage|website|web site} or even a {blog|weblog} from start to end.|\\nI know this if off topic but I'm looking into starting my own {blog|weblog} and was {wondering|curious} what all is {required|needed} to get {set up|setup}? I'm assuming having a blog like yours would cost a pretty penny? I'm not very {internet|web} {savvy|smart} so I'm not 100% {sure|positive|certain}. Any {tips|recommendations|suggestions} or advice would be greatly appreciated. {Thanks|Kudos|Appreciate it|Cheers|Thank you|Many thanks}|\\nMy {relatives|family members|family} {always|all the time|every time} say that I am {wasting|killing} my time here at {net|web}, {but|except|however} I know I am getting {experience|knowledge|familiarity|know-how} {everyday|daily|every day|all the time} by reading {such|thes} {nice|pleasant|good|fastidious} {articles|posts|articles or reviews|content}.|\\nSpot on with this write-up, {I truly|I really|I seriously|I honestly|I absolutely|I actually} {think|believe|feel|believe that} {this website|this site|this web site|this amazing site} needs {much more|a lot more|far more|a great deal more} attention. I'll probably be {back again|returning} {to read|to read through|to see} more, thanks for the {info|information|advice}!|\\nI know this {website|web site|site|web page} {provides|offers|gives|presents} quality {based|dependent|depending} {articles|posts|articles or reviews|content} and {other|additional|extra} {stuff|information|data|material}, is there any other {website|web site|site|web page} which {provides|offers|gives|presents} {such|these|these kinds of} {things|information|stuff|data} in quality?|\\nI read this {article|post|piece of writing|paragraph} {fully|completely} {regarding|concerning|about|on the topic of} the {comparison|resemblance|difference} of {latest|newest|most recent|most up-to-date|hottest} and {previous|preceding|earlier} technologies, it's {awesome|remarkable|amazing} article.|\\n{I think|I feel|I believe} {this is|that is} {one of the|among the} {so much|such a lot|most} {important|significant|vital} {information|info} for me. And {i'm|i am} {satisfied|glad|happy} {reading|studying} your article. {However|But} {wanna|want to|should} {observation|remark|statement|commentary} on {few|some} {general|common|basic|normal} {things|issues}, The {website|site|web site} {taste|style} is {perfect|ideal|great|wonderful}, the articles is {in point of fact|actually|really|in reality|truly} {excellent|nice|great} : D. {Just right|Good|Excellent} {task|process|activity|job}, cheers|\\n{I enjoy|I like|I love|I quite like|I really like} {reading|reading through|looking through} {a post|an article} {that will make|that can make} {people|men and women} think. Also, {thanks for|thank you for|many thanks for} {allowing|allowing for|permitting} me to comment!|\\n{Hey|Thanks} very {interesting|nice} blog!|\\nEvery weekend i used to {visit|go to see|pay a visit|pay a quick visit} this {website|web site|site|web page}, {because|as|for the reason that} i {want|wish for} enjoyment, {since|as|for the reason that} this this {website|web site|site|web page} conations {really|actually|in fact|truly|genuinely} {nice|pleasant|good|fastidious} funny {stuff|information|data|material} too.|\\nI {don't know|do not know} {if it's|whether it's} just me or {if|if perhaps} {everyone else|everybody else} {experiencing|encountering} {problems with|issues with} {your blog|your website|your site}. {It seems like|It appears like|It appears as if|It looks like|It appears as though} some of the {text|written text} {on your|within your|in your} {posts|content} are running off the screen. Can {someone else|somebody else} please {comment|provide feedback} and let me know if this is happening to them {too|as well}? {This might|This could|This may} be a {problem|issue} with my {browser|web browser|internet browser} because I've had this happen {before|previously}. {Thanks|Kudos|Appreciate it|Cheers|Thank you|Many thanks}|\\nYou {really|actually} make it seem so easy with your presentation but I find this {topic|matter} to be {really|actually} something {which|that} I think I would never understand. It seems too {complicated|complex} and {very|extremely} broad for me. {I am|I'm} looking forward for your next post, {I will|I'll} try to get the hang of it!|\\n{I would like to|I must|I'd like to|I have to} thank you for the efforts {you have|you've} put in {writing this|penning this} {blog|website|site}. {I am hoping|I'm hoping|I really hope} {to see|to view|to check out} the same high-grade {blog posts|content} {from you|by you} {in the future|later on} as well. {In fact|In truth}, your creative writing abilities has {inspired|motivated|encouraged} me to get {my own|my very own|my own, personal} {blog|website|site} now ;)|\\nIt's {really|actually|in fact|truly|genuinely} very {complex|difficult|complicated} in this {busy|full of activity|active} life to listen news on {TV|Television}, {so|thus|therefore} I {only|simply|just} use {internet|web|world wide web|the web} for that {purpose|reason}, and {take|get|obtain} the {latest|newest|most recent|most up-to-date|hottest} {news|information}.|\\nI am {really|actually|in fact|truly|genuinely} {thankful|grateful} to the {owner|holder} of this {website|web site|site|web page} who has shared this {great|enormous|impressive|wonderful|fantastic} {article|post|piece of writing|paragraph} at {here|at this place|at this time}.|\\nI am regular {reader|visitor}, how are you everybody? This {article|post|piece of writing|paragraph} posted at this {website|web site|site|web page} is {really|actually|in fact|truly|genuinely} {nice|pleasant|good|fastidious}.|\\nIt's {really|actually} a {nice|cool|great} and {helpful|useful} piece of {information|info}. {I'm|I am} {satisfied|glad|happy} {that you|that you simply|that you just} shared this {helpful|useful} {info|information} with us. Please {stay|keep} us {informed|up to date} like this. {Thank you|Thanks} for sharing.|\\nYes! Finally {something|someone writes} about %keyword1%.|\\n{Undeniably|Unquestionably|Definitely} {believe|consider|imagine} that {that you|which you} {stated|said}. Your {favourite|favorite} {justification|reason} {appeared to be|seemed to be} {at the|on the} {internet|net|web} the {simplest|easiest} {thing|factor} to {keep in mind|bear in mind|remember|consider|take into account|have in mind|take note|be mindful|understand|be aware|take into accout} of. I say to you, I {definitely|certainly} get {irked|annoyed} {at the same time as|whilst|even as|while} {other folks|folks|other people|people} {consider|think about} {concerns|worries|issues} that they {plainly|just} {do not|don't} {realize|recognize|understand|recognise|know} about. You {controlled|managed} to hit the nail upon {the top|the highest} {as {smartly|well|neatly} as|and also|and} {defined|outlined} out {the whole thing|the entire thing} {with no need|without having} {side effect|side-effects} , {other folks|folks|other people|people} {can|could} take a signal. Will {likely|probably} be {back|again} to get more. {Thank you|Thanks}|\\n{Undeniably|Unquestionably|Definitely} believe that which you {stated|said}. Your favorite {justification|reason} {appeared to be|seemed to be} on the {internet|net|web} the {simplest|easiest} thing to be aware of. I say to you, I {definitely|certainly} get {irked|annoyed} while people {consider|think about} worries that they {plainly|just} {do not|don't} know about. You managed to hit the nail upon the top {as well as|and also|and} defined out the whole thing without having {side effect|side-effects} , people {can|could} take a signal. Will {likely|probably} be back to get more. Thanks|\\nI am {really|actually|in fact|truly|genuinely} {happy|pleased|glad|delighted} to {read|glance at} this {blog|weblog|webpage|website|web site} posts which {contains|consists of|includes|carries} {lots|plenty|tons} of {useful|helpful|valuable} {data|information|facts}, thanks for providing {such|these|these kinds of} {data|information|statistics}.|\\nYou {really|actually} make it {seem|appear} {so easy|really easy} {with your|together with your|along with your} presentation {however|but} I {in finding|find|to find} this {topic|matter} to be {really|actually} {something|one thing} {which|that} {I think|I feel|I believe} {I would|I might|I'd} {never|by no means} understand. {It kind of feels|It sort of feels|It seems} too {complicated|complex} and {very|extremely} {wide|broad|extensive|large|vast|huge} for me. {I am|I'm} {taking a look|looking|having a look} {forward|ahead} {for your|on your|in your|to your} {next|subsequent} {post|submit|publish|put up}, {I will|I'll} {try to|attempt to} get the {hang|hold|grasp|cling|dangle} of it!|\\n{Great delivery|Incredible points|Touche}. {Great|Outstanding|Solid|Sound} arguments. Keep up the {amazing|good|great} {effort|work|spirit}.|\\nI'm {really|truly} enjoying the design and layout of your {blog|site|website}. It's a very easy on the eyes which makes it much more {enjoyable|pleasant} for me to come here and visit more often. Did you hire out a {designer|developer} to create your theme? {Excellent|Great|Fantastic|Exceptional|Outstanding|Superb} work!|\\n{Incredible|Ridiculous|Outstanding|Inspiring|Stunning} {quest|story} there. What {occurred|happened} after? {Good luck|Thanks|Take care}!|\\n{always|all the time|constantly|continuously|each time} i used to read smaller {articles|posts|articles or reviews|content} {which|that } {also|as well} clear their motive, and that is also happening with this {article|post|piece of writing|paragraph} which I am reading {here|at this place|at this time|now}.|\\n{You should|You ought to|You need to} {take part in|be a part of} a contest for one {of the best|of the greatest|of the finest|of the highest quality|of the most useful} {blogs|sites|websites} {on the web|on the internet|on the net|online}. {I will|I am going to|I most certainly will|I'm going to} {recommend|highly recommend} {this site|this website|this blog|this web site}!|\\n{I was|I'm} {very pleased|extremely pleased|pretty pleased|very happy|more than happy|excited} {to find|to discover|to uncover} {this website|this site|this web site|this great site|this page}. {I wanted|I want to|I need to} to thank you {for your|for ones} time {for this|just for this|due to this|for this particularly} {wonderful|fantastic} read!! I definitely {enjoyed|loved|appreciated|liked|savored|really liked} every {little bit of|bit of|part of} it {and I|and i also} have you {bookmarked|saved as a favorite|book-marked|book marked|saved to fav} {to check out|to see|to look at} new {stuff|things|information} {on your|in your} {blog|website|web site|site}.|\\n{Sweet|Wonderful} blog! I found it while {browsing|surfing around|searching} on Yahoo News. Do you have any {tips|suggestions} on how to get listed in Yahoo News? I've been trying for a while but I never seem to get there! {Thanks|Many thanks|Appreciate it|Cheers|Thank you}|\\n{Great|Wonderful|Fantastic|Magnificent|Excellent} {site|web site|website}. {A lot of|Lots of|Plenty of} {useful|helpful} {information|info} here. {I'm|I am} sending it to {some|a few|several} {pals|buddies|friends} ans {also|additionally} sharing in delicious. And {of course|obviously|naturally|certainly}, {thank you|thanks} {for your|on your|in your|to your} {effort|sweat}!|\\n{great|wonderful|fantastic|magnificent|excellent} {post|submit|publish|put up}, very informative. {I wonder|I'm wondering|I ponder} why {the other|the opposite} {experts|specialists} of this sector {do not|don't} {realize|understand|notice} this. You {should|must} {continue|proceed} your writing. {I am|I'm} {sure|confident}, {you have|you've} {a huge|a great} readers' base already!|\\n{Great|Wonderful|Fantastic|Magnificent|Excellent} beat ! I {wish to|would like to} apprentice while you amend your {site|web site|website}, how {can|could} i subscribe for a blog {site|web site|website}? The account {aided|helped} me a acceptable deal. I had been {tiny|a little} bit acquainted of this your broadcast {provided|offered} bright clear {concept|idea}|\\n{great|wonderful|fantastic|magnificent|excellent} {issues|points} altogether, you {just|simply} {won|gained|received} {a {logo|emblem|brand} new|a new} reader. What {may|might|could|would} you {suggest|recommend} {in regards to|about} your {post|submit|publish|put up} {that you|that you simply|that you just} made {a few|some} days {ago|in the past}? Any {sure|positive|certain}?|\\nDo you mind if I quote a {couple|few} of your {posts|articles} as long as I provide credit and sources back to your {webpage|site|website|weblog|blog}? My {blog site|website|blog} is in the {very same|exact same} {area of interest|niche} as yours and my {visitors|users} would {certainly|definitely|genuinely|truly|really} benefit from {a lot of the|some of the} information you {present|provide} here. Please let me know if this {alright|okay|ok} with you. {Regards|Thanks a lot|Appreciate it|Cheers|Thank you|Many thanks|Thanks}!|\\nWith havin so much {content and articles|written content|content} do you ever run into any {problems|issues} of plagorism or copyright {violation|infringement}? My {website|site|blog} has a lot of {completely unique|exclusive|unique} content I've either {authored|created|written} myself or outsourced but it {looks like|appears|seems} a lot of it is popping it up all over the {web|internet} without my {agreement|authorization|permission}. Do you know any {solutions|techniques|methods|ways} to help {protect against|reduce|stop|prevent} content from being {ripped off|stolen}? I'd {certainly|definitely|genuinely|truly|really} appreciate it.|\\n{Great|Wonderful|Fantastic|Magnificent|Excellent} {goods|items} from you, man. {I've|I have} {keep in mind|bear in mind|remember|consider|take into account|have in mind|take note|be mindful|understand|be aware|take into accout} your stuff {prior to|previous to} and {you're|you are} {simply|just} {too|extremely} {great|wonderful|fantastic|magnificent|excellent}. I {really|actually} like what {you've|you have} {got|received|obtained|acquired|bought} {here|right here}, {really|certainly} like what {you're|you are} {stating|saying} and {the way|the best way|the way in which} {in which|by which|during which|through which|wherein} {you assert|you are saying|you say} it. {You are making|You make|You're making} it {entertaining|enjoyable} and {you still|you continue to} {take care of|care for} to {stay|keep} it {smart|sensible|wise}. I {cant|can not|can't} wait to {read|learn} {far more|much more} from you. {This is|That is} {actually|really} a {terrific|great|wonderful|tremendous} {website|site|web site}.|\\nIf some one {needs|wants|desires|wishes} to be updated with {latest|newest|most recent|most up-to-date|hottest} technologies {then|after that|afterward|therefore} he must be {visit|go to see|pay a visit|pay a quick visit} this {website|web site|site|web page} and be up to date {everyday|daily|every day|all the time}.|\\nI was {wondering|curious} if you ever {considered|thought of} changing the {layout|page layout|structure} of your {blog|site|website}? Its very well written; I love what youve got to say. But maybe you could a little more in the way of content so people could connect with it better. Youve got an awful lot of text for only having {one|1} or {two|2} {images|pictures}. Maybe you could space it out better?|\\nVery {soon|rapidly|quickly|shortly} this {website|web site|site|web page} will be famous {among|amid} all {blogging|blogging and site-building|blog} {users|people|viewers|visitors}, due to it's {nice|pleasant|good|fastidious} {articles|posts|articles or reviews|content}|\\nIf some one {needs|wants|desires|wishes} expert view {regarding|concerning|about|on the topic of} {blogging|blogging and site-building|running a blog} {then|after that|afterward} i {suggest|propose|advise|recommend} him/her to {visit|go to see|pay a visit|pay a quick visit} this {blog|weblog|webpage|website|web site}, Keep up the {nice|pleasant|good|fastidious} {job|work}.|\\n{Great|Wonderful|Fantastic|Magnificent|Excellent} goods from you, man. {I've|I have} understand your stuff previous to and {you're|you are} just {too|extremely} {great|wonderful|fantastic|magnificent|excellent}. I {really|actually} like what {you've|you have} acquired here, {really|certainly} like what {you're|you are} {stating|saying} and the way in which you say it. You make it {entertaining|enjoyable} and you still {take care of|care for} to keep it {smart|sensible|wise}. I {cant|can not|can't} wait to read {far more|much more} from you. This is {actually|really} a {terrific|great|wonderful|tremendous} {website|site|web site}.|\\n{Great|Wonderful|Fantastic|Magnificent|Excellent} beat ! I {wish to|would like to} apprentice {at the same time as|whilst|even as|while} you amend your {site|web site|website}, how {can|could} i subscribe for a {blog|weblog} {site|web site|website}? The account {aided|helped} me a {appropriate|applicable|acceptable} deal. I {were|have been|had been} {tiny|a little} bit {familiar|acquainted} of this your broadcast {provided|offered} {bright|shiny|brilliant|vibrant|vivid} {transparent|clear} {concept|idea}|\\n{Usually|Normally|Generally} I {do not|don't} {read|learn} {article|post} on blogs, {however|but} I {wish to|would like to} say that this write-up very {forced|pressured|compelled} me {to take a look at|to try|to check out} and do {so|it}! Your writing {taste|style} has been {amazed|surprised} me. {Thank you|Thanks}, {quite|very} {great|nice} {article|post}.|\\n{I used to be|I was} {recommended|suggested} this {blog|website|web site} {through|via|by way of|by means of|by} my cousin. {I am|I'm} {now not|not|no longer} {sure|positive|certain} {whether|whether or not} this {post|submit|publish|put up} is written {through|via|by way of|by means of|by} him as {no one|nobody} else {realize|recognize|understand|recognise|know} such {specific|particular|certain|precise|unique|distinct|exact|special|specified|targeted|detailed|designated|distinctive} {approximately|about} my {problem|difficulty|trouble}. {You are|You're} {amazing|wonderful|incredible}! {Thank you|Thanks}!|\\n{Hey|Hello} There. I found your blog using msn. This is {a very|an extremely|a really} well written article. {I will|I'll} {be sure|make sure} to bookmark it and {come back|return} to read more of your useful {information|info}. Thanks for the post. {I will|I'll} {definitely|certainly} {comeback|return}.|\\n{Hey|Hello} There. {I found|I discovered} your {blog|weblog} {the use of|using|the usage of} msn. {This is|That is} {a very|an extremely|a really} {smartly|well|neatly} written article. {I will|I'll} {be sure|make sure} to bookmark it and {come back|return} to {read|learn} {more|extra} of your {useful|helpful} {information|info}. {Thank you|Thanks} for the post. {I will|I'll} {definitely|certainly} {comeback|return}.|\\nThanks {for one's|for ones|for your|for your personal|for a|for the|on your} marvelous posting! I {actually|seriously|quite|definitely|really|genuinely|truly|certainly} enjoyed reading it, {you could be|you are|you can be|you might be|you're|you will be|you may be|you happen to be} a great author. I will {make sure to|ensure that I|be sure to|always|make certain to|be sure to|remember to} bookmark your blog {and will|and definitely will|and will eventually|and will often|and may} come back {from now on|down the road|in the future|very soon|someday|later in life|at some point|in the foreseeable future|sometime soon|later on}. I want to encourage {|you to ultimately|that you|yourself to|you to definitely|you to|one to|you} continue your great {job|posts|writing|work}, have a nice {day|morning|weekend|holiday weekend|afternoon|evening}!|\\n{Hello|Good day|Hey|Hey there|Howdy|Hi there|Hello there|Hi}! I could have sworn I've been to this {site|blog|website} before but after {reading|browsing|checking} through some of the post I realized it's new to me. {Anyways|Nonetheless|Anyhow}, I'm definitely {glad|happy|delighted} I found it and I'll be {bookmarking|book-marking} and checking back {often|frequently}!|\\nThanks {for|designed for|in favor of|in support of} sharing such a {nice|pleasant|good|fastidious} {thought|idea|opinion|thinking}, {article|post|piece of writing|paragraph} is {nice|pleasant|good|fastidious}, thats why i have read it {fully|completely|entirely}|\\n{hey|hello} there and thank you for your {information|info} – {I've|I have} {definitely|certainly} picked up {anything|something} new from right here. I did however expertise {some|a few|several} technical {issues|points} using this {web site|site|website}, {since|as} I experienced to reload the {site|web site|website} {many|a lot of|lots of} times previous to I could get it to load {properly|correctly}. I had been wondering if your {hosting|web hosting|web host} is OK? Not that {I am|I'm} complaining, but {sluggish|slow} loading instances times will {very frequently|often|sometimes} affect your placement in google and {can|could} damage your {high quality|quality|high-quality} score if {advertising|ads} and marketing with Adwords. {Anyway|Well} {I'm|I am} adding this RSS to my {e-mail|email} and {can|could} look out for {a lot|much} more of your respective {intriguing|fascinating|interesting|exciting} content. {Make sure|Ensure that} you update this again {soon|very soon}.|\\nWhat i {do not|don't} {realize|understood} is {if truth be told|in fact|actually|in reality|in truth} how {you're|you are} {now not|not|no longer} {really|actually} {a lot more|much more} {smartly|well|neatly}-{liked|appreciated|favored|preferred} than you {may be|might be} {right now|now}. {You are|You're} {so|very} intelligent. {You know|You understand|You realize|You recognize|You already know} {therefore|thus} {significantly|considerably} {when it comes to|in terms of|in relation to|with regards to|relating to|on the subject of|in the case of} this {topic|matter|subject}, {produced|made} me {for my part|personally|individually|in my opinion|in my view} {believe|consider|imagine} it from {so many|numerous|a lot of} {various|numerous|varied} angles. Its like {men and women|women and men} {don't seem to be|aren't|are not} {interested|fascinated|involved} {unless|until|except} {it's|it is} {something|one thing} to {accomplish|do} with {Woman|Lady|Girl} gaga! {Your own|Your personal|Your individual} stuffs {excellent|nice|great|outstanding}. {Always|All the time|At all times} {take care of|care for|deal with|maintain|handle} it up!|\\n{Hurrah|Wow}! {Finally|At last|After all|In the end} I got a {blog|weblog|webpage|website|web site} from where I {can|be able to|know how to|be capable of} {really|actually|in fact|truly|genuinely} {take|get|obtain} {useful|helpful|valuable} {data|information|facts} {regarding|concerning} my study and knowledge.|\\nWhen someone writes an {article|post|piece of writing|paragraph} he/she {keeps|maintains|retains} the {idea|thought|plan|image} of a user in his/her {mind|brain} that how a user can {understand|know|be aware of} it. {So|Thus|Therefore} that's why this {article|post|piece of writing|paragraph} is {amazing|great|perfect|outstdanding}. Thanks!|\\n{You're|You are} so {cool|awesome|interesting}! {I don't|I do not} {suppose|think|believe} {I've|I have|I've truly} {read|read through} {anything|something|a single thing} {like this|like that} before. So {nice|good|great|wonderful} {to find|to discover} {somebody|someone|another person} {with some|with a few|with} {original|unique|genuine} thoughts on this {subject|topic|issue|subject matter}. {Really|Seriously}.. {thank you for|thanks for|many thanks for} starting this up. {This website|This site|This web site} {is something|is one thing} {that is needed|that's needed|that is required} {on the web|on the internet}, someone {with a little|with some|with a bit of} originality!|\\nThanks {for one's|for ones|for your|for your personal|for a|for the|on your} marvelous posting! I {actually|seriously|quite|definitely|really|genuinely|truly|certainly} enjoyed reading it, {you could be|you are|you can be|you might be|you're|you will be|you may be|you happen to be} a great author.I will {make sure to|ensure that I|be sure to|always|make certain to|be sure to|remember to} bookmark your blog {and will|and definitely will|and will eventually|and will often|and may} come back {from now on|down the road|in the future|very soon|someday|later in life|at some point|in the foreseeable future|sometime soon|later on}. I want to encourage {|you to ultimately|that you|yourself to|you to definitely|you to|one to|you} continue your great {job|posts|writing|work}, have a nice {day|morning|weekend|holiday weekend|afternoon|evening}!|\\n{Thanks|Appreciation|Thankfulness} to my father who {told|informed|shared with|stated to} me {regarding|concerning|about|on the topic of} this {blog|weblog|webpage|website|web site}, this {blog|weblog|webpage|website|web site} is {really|actually|in fact|truly|genuinely} {awesome|remarkable|amazing}.|\\n{Article|Post|Piece of writing|Paragraph} writing is also a {fun|excitement}, if you {know|be acquainted with|be familiar with} {then|after that|afterward} you can write {otherwise|or else|if not} it is {complex|difficult|complicated} to write.|\\n{No matter if|When} some one searches for his {required|necessary|essential|vital} thing, {so|thus|therefore} he/she {wants|needs|desires|wishes} to be available that in detail, {so|thus|therefore} that thing is maintained over here.|\\nThanks for finally {writing|talking} about > %blog_title% < {Liked|Loved} it!|\\n{Great|Very nice|Informative|Peculiar} article, {exactly|just|totally} what I {needed|wanted to find|was looking for}.|\\nMy brother {suggested|recommended} I might like this {blog|website|web site}. He was {totally|entirely} right. This post {actually|truly} made my day. You {cann't|can not} imagine {just|simply} how much time I had spent for this {information|info}! Thanks!|\\nThanks for sharing your thoughts {on|about} %meta_keyword%. Regards|\\nMy brother {suggested|recommended} I {would possibly|might|may} like this {blog|website|web site}. He {used to be|was|was once} {totally|entirely} right. This {post|submit|publish|put up} {actually|truly} made my day. You {cann't|can not} {believe|consider|imagine} {just|simply} how {so much|much|a lot} time I had spent for this {information|info}! {Thank you|Thanks}!|\\nWhen I {originally|initially} commented I clicked the \"Notify me when new comments are added\" checkbox and now each time a comment is added I get {four|three|several} {emails|e-mails} with the same comment. Is there any way you can remove {me|people} from that service? {Thanks|Bless you|Thanks a lot|Appreciate it|Cheers|Thank you|Many thanks}!|\\n{Awesome|Remarkable|Amazing}! Its {really|actually|in fact|truly|genuinely} {awesome|remarkable|amazing} {article|post|piece of writing|paragraph}, I have got much clear idea {regarding|concerning|about|on the topic of} from this {article|post|piece of writing|paragraph}.|\\n{Hi|What's up|Hi there|Hello} to every body, it's my first {visit|go to see|pay a visit|pay a quick visit} of this {blog|weblog|webpage|website|web site}; this {blog|weblog|webpage|website|web site} {contains|consists of|includes|carries} {awesome|remarkable|amazing} and {really|actually|in fact|truly|genuinely} {good|fine|excellent} {stuff|information|data|material} {for|designed for|in favor of|in support of} {readers|visitors}.|\\n{Hi|What's up|Hi there|Hello} to {all|every one|every single one}, it's {really|actually|in fact|truly|genuinely} a {nice|pleasant|good|fastidious} for me to {visit|go to see|pay a visit|pay a quick visit} this {website|web site|site|web page}, it {contains|consists of|includes} {valuable|precious|priceless|important|helpful|useful} Information.|\\n{Hi|What's up|Hi there|Hello} to {all|every one}, the contents {present|existing} at this {website|web site|site|web page} are {really|actually|in fact|truly|genuinely} {awesome|remarkable|amazing} for people {experience|knowledge}, well, keep up the {nice|good} work fellows.|\\n{Hi|What's up|Hi there|Hello} it's me, I am also visiting this {website|web site|site|web page} {regularly|daily|on a regular basis}, this {website|web site|site|web page} is {really|actually|in fact|truly|genuinely} {nice|pleasant|good|fastidious} and the {users|people|viewers|visitors} are {really|actually|in fact|truly|genuinely} sharing {nice|pleasant|good|fastidious} thoughts.|\\n{Hi|What's up|Hi there|Hello} Dear, are you {really|actually|in fact|truly|genuinely} visiting this {website|web site|site|web page} {regularly|daily|on a regular basis}, if so {then|after that|afterward} you will {definitely|absolutely|without doubt} {take|get|obtain} {nice|pleasant|good|fastidious} {experience|knowledge|know-how}.|\\n{Hi|What's up|Hi there|Hello} i am kavin, its my first {time|occasion} to commenting {anywhere|anyplace}, when i read this {article|post|piece of writing|paragraph} i thought i could also {make|create} comment due to this {brilliant|sensible|good } {article|post|piece of writing|paragraph}.|\\n{Hi|What's up|Hi there|Hello} {friends|mates|colleagues}, its {great|enormous|impressive|wonderful|fantastic} {article|post|piece of writing|paragraph} {regarding|concerning|about|on the topic of} {education|teaching|tutoring|culture}and {fully|completely|entirely} {explained|defined}, keep it up all the time.|\\nI loved as much as {you will|you'll} receive carried out right here. The sketch is {tasteful|attractive}, your authored {subject matter|material} stylish. nonetheless, you command get {bought|got} an {edginess|nervousness|impatience|shakiness} over that you wish be delivering the following. unwell unquestionably come {further|more} formerly again {since|as} exactly the same nearly {a lot|very} often inside case you shield this {increase|hike}.|\\n{Hi|What's up|Hi there|Hello} to {all|every one|every }, {because|since|as|for the reason that} I am {really|actually|in fact|truly|genuinely} {keen|eager} of reading this {blog|weblog|webpage|website|web site}'s post to be updated {regularly|daily|on a regular basis}. It {contains|consists of|includes|carries} {nice|pleasant|good|fastidious} {stuff|information|data|material}.|\\n{Hi|What's up|Hi there|Hello} {all|everybody|every one}, here {every one|every person} is sharing {such|these|these kinds of} {experience|knowledge|familiarity|know-how}, {so|thus|therefore} it's {nice|pleasant|good|fastidious} to read this {blog|weblog|webpage|website|web site}, and I used to {visit|go to see|pay a visit|pay a quick visit} this {blog|weblog|webpage|website|web site} {everyday|daily|every day|all the time}.|\\n{Hi|What's up|Hi there|Hello} to all, how is {everything|all|the whole thing}, I think every one is getting more from this {website|web site|site|web page}, and your views are {nice|pleasant|good|fastidious} {for|designed for|in favor of|in support of} new {users|people|viewers|visitors}.|\\nI got this {website|web site|site|web page} from my {friend|pal|buddy} who {told|informed|shared with} me {regarding|concerning|about|on the topic of} this {website|web site|site|web page} and {now|at the moment} this time I am {visiting|browsing} this {website|web site|site|web page} and reading very informative {articles|posts|articles or reviews|content} {here|at this place|at this time}.|\\nFor {latest|newest|most recent|most up-to-date|hottest} {news|information} you have to {visit|go to see|pay a visit|pay a quick visit} {internet|web|world wide web|world-wide-web|the web} and on {internet|web|world-wide-web|the web} I found this {website|web site|site|web page} as a {best|most excellent|finest} {website|web site|site|web page} for {latest|newest|most recent|most up-to-date|hottest} updates.|\\n{Marvelous|Wonderful|Excellent|Fabulous|Superb}, what a {blog|weblog|webpage|website|web site} it is! This {blog|weblog|webpage|website|web site} {provides|gives|presents} {useful|helpful|valuable} {data|information|facts} to us, keep it up.|\\n{Hi|What's up|Hi there|Hello} {friends|mates|colleagues}, {nice|pleasant|good|fastidious} {article|post|piece of writing|paragraph} and {nice|pleasant|good|fastidious} {arguments|urging} commented {here|at this place}, I am {really|actually|in fact|truly|genuinely} enjoying by these.|\\n{Hi|What's up|Hi there|Hello} {friends|mates|colleagues}, how is {everything|all|the whole thing}, and what you {want|desire|wish for|would like} to say {regarding|concerning|about|on the topic of} this {article|post|piece of writing|paragraph}, in my view its {really|actually|in fact|truly|genuinely} {awesome|remarkable|amazing} {for|designed for|in favor of|in support of} me.|\\nIt's {awesome|remarkable|amazing} {for|designed for|in favor of|in support of} me to have a {website|web site|site|web page}, which is {beneficial|helpful|useful|valuable|good} {for|designed for|in favor of|in support of} my {experience|knowledge|know-how}. thanks admin|\\nIt's {awesome|remarkable|amazing} to {visit|go to see|pay a visit|pay a quick visit} this {website|web site|site|web page} and reading the views of all {friends|mates|colleagues} {regarding|concerning|about|on the topic of} this {article|post|piece of writing|paragraph}, while I am also {keen|eager|zealous} of getting {experience|knowledge|familiarity|know-how}.|\\nWhy {users|people|viewers|visitors} still {use|make use of} to read news papers when in this technological {world|globe} {everything|all|the whole thing} is {available|accessible|existing|presented} on {net|web}?|\\n{Hi|What's up|Hi there|Hello}, {yup|yeah|yes|of course} this {article|post|piece of writing|paragraph} is {really|actually|in fact|truly|genuinely} {nice|pleasant|good|fastidious} and I have learned lot of things from it {regarding|concerning|about|on the topic of} blogging. thanks.|\\n{Hi|What's up|Hi there|Hello}, {always|for all time|all the time|constantly|every time} i used to check {blog|weblog|webpage|website|web site} posts here {early|in the early hours} in the {morning|dawn|break of day|daylight}, {because|since|as|for the reason that} i {like|love|enjoy} to {learn|gain knowledge of|find out} more and more.|\\n{Hi|What's up|Hi there|Hello} everyone, it's my first {visit|go to see|pay a visit|pay a quick visit} at this {website|web site|site|web page}, and {article|post|piece of writing|paragraph} is {really|actually|in fact|truly|genuinely} fruitful {for|designed for|in favor of|in support of} me, keep up posting {such|these|these types of} {articles|posts|articles or reviews|content}.|\\n{Hi|What's up|Hi there|Hello}, this weekend is {nice|pleasant|good|fastidious} {for|designed for|in favor of|in support of} me, {because|since|as|for the reason that} this {time|occasion|point in time|moment} i am reading this {great|enormous|impressive|wonderful|fantastic} {informative|educational} {article|post|piece of writing|paragraph} here at my {home|house|residence}.|\\n{Hi|What's up|Hi there|Hello}, {everything|all|the whole thing} is going {well|fine|sound|perfectly|nicely} here and ofcourse every one is sharing {data|information|facts}, that's {really|actually|in fact|truly|genuinely} {good|fine|excellent}, keep up writing.|\\n{An impressive|An outstanding} share! {I have|I've} just forwarded this onto a {colleague|friend|coworker|co-worker} {who was|who had been|who has been} {doing a|conducting a} little {research|homework} on this. And he {in fact|actually} {bought|ordered} me {breakfast|lunch|dinner} {because|simply because|due to the fact that} {I found|I discovered|I stumbled upon} it for him... lol. So {let me|allow me to} reword this.... {Thank YOU for|Thanks for} the meal!! But yeah, {thanx|thanks} for spending {the time|time|some time} {to discuss|to talk about} this {matter|issue|topic|subject} here on your {site|website|web site|internet site|web page|blog}.|\\nwhoah this {blog|weblog} is {great|wonderful|fantastic|magnificent|excellent} {i love|i really like|i like} {reading|studying} your {articles|posts}. {Stay|Keep} up the {good|great} work! {You know|You understand|You realize|You recognize|You already know}, {many|a lot of|lots of} {people are|individuals are|persons are} {hunting|searching|looking} {around|round} for this {info|information}, {you can|you could} {help|aid} them greatly. |\\n{Greetings|Hiya|Hey there|Hey|Good day|Howdy|Hi there|Hello there|Hi|Hello}! I know this is kinda off topic {however ,|nevertheless|however|but} I'd figured I'd ask. Would you be interested in {exchanging|trading} links or maybe guest {writing|authoring} a blog {article|post} or vice-versa? My {website|site|blog} {goes over|discusses|addresses|covers} a lot of the same {subjects|topics} as yours and I {feel|believe|think} we could greatly benefit from each other. If {you happen to be|you might be|you are|you're} interested feel free to {send|shoot} me an {e-mail|email}. I look forward to hearing from you! {Awesome|Terrific|Superb|Wonderful|Fantastic|Excellent|Great} blog by the way!|\\n{This website|This site|This excellent website|This web site|This page} {really|truly|definitely|certainly} has {all of the|all the} {info|information|information and facts} {I wanted|I needed} {about this|concerning this} subject and didn't know who to ask. |\\n{Hi|What's up|Hi there|Hello}, I {want|desire|wish for|would like} to subscribe for this {blog|weblog|webpage|website|web site} to {take|get|obtain} {latest|newest|most recent|most up-to-date|hottest} updates, {so|thus|therefore} where can i do it please {help|assist|help out}.|\\n{Hi|What's up|Hi there|Hello}, its {nice|pleasant|good|fastidious} {article|post|piece of writing|paragraph} {regarding|concerning|about|on the topic of} media print, we all {know|be familiar with|understand|be aware of} media is a {great|enormous|impressive|wonderful|fantastic} source of {data|information|facts}.|\\n{Hey|Whats up|Howdy|Hi there|Heya|Hey there|Hi|Hello} are using Wordpress for your {blog|site} platform? I'm new to the blog world but I'm trying to get started and {create|set up} my own. Do you {need|require} any {coding|html coding} {knowledge|expertise} to make your own blog? Any help would be {greatly|really} appreciated!|\\n{Hi|What's up|Hi there|Hello}, after reading this {awesome|remarkable|amazing} {article|post|piece of writing|paragraph} i am {also|too|as well} {happy|glad|cheerful|delighted} to share my {experience|knowledge|familiarity|know-how} here with {friends|mates|colleagues}.|\\n{Greetings|Hey there|Hey|Good day|Howdy|Hi there|Hello there|Hi|Hello} I am so {grateful|glad|excited|happy|thrilled|delighted} I found your {blog page|webpage|site|web site|website|weblog|blog}, I really found you by {error|mistake|accident}, while I was {researching|browsing|searching|looking} on {Digg|Askjeeve|Aol|Bing|Google|Yahoo} for something else, {Nonetheless|Regardless|Anyhow|Anyways} I am here now and would just like to say {thanks a lot|kudos|cheers|thank you|many thanks|thanks} for a {fantastic|marvelous|remarkable|incredible|tremendous} post and a all round {exciting|thrilling|interesting|enjoyable|entertaining} blog (I also love the theme/design), I don’t have time to {read through|browse|look over|go through|read} it all at the {minute|moment} but I have {book-marked|saved|bookmarked} it and also {added in|included|added} your RSS feeds, so when I have time I will be back to read {a great deal more|a lot more|much more|more}, Please do keep up the {awesome|superb|fantastic|excellent|great} {jo|b|work}.|\\n{Greetings|Hey there|Hey|Good day|Howdy|Hi there|Hello there|Hi|Hello}! This is my {1st|first} comment here so I just wanted to give a quick shout out and {tell you|say} I {genuinely|truly|really} enjoy {reading through|reading} your {blog posts|articles|posts}. Can you {suggest|recommend} any other blogs/websites/forums that {go over|deal with|cover} the same {subjects|topics}? {Thank you so much|Thanks for your time|Thanks a ton|Appreciate it|Thanks a lot|Many thanks|Thanks|Thank you}!|\\n{Greetings|Hey there|Hey|Good day|Howdy|Hi there|Hello there|Hi|Hello} I am so {grateful|glad|excited|happy|thrilled|delighted} I found your {blog page|webpage|site|web site|website|weblog|blog}, I really found you by {error|mistake|accident}, while I was {researching|browsing|searching|looking} on {Digg|Askjeeve|Aol|Bing|Google|Yahoo} for something else, {Nonetheless|Regardless|Anyhow|Anyways} I am here now and would just like to say {thanks a lot|kudos|cheers|thank you|many thanks|thanks} for a {fantastic|marvelous|remarkable|incredible|tremendous} post and a all round {exciting|thrilling|interesting|enjoyable|entertaining} blog (I also love the theme/design), I don't have time to {read through|browse|look over|go through|read} it all at the {minute|moment} but I have {book-marked|saved|bookmarked} it and also {added in|included|added} your RSS feeds, so when I have time I will be back to read {a great deal more|a lot more|much more|more}, Please do keep up the {awesome|superb|fantastic|excellent|great} {job|work}.|\\n{Because|Since|As|For the reason that} the admin of this {website|web site|site|web page} is working, no {doubt|hesitation|uncertainty|question} very {soon|rapidly|quickly|shortly} it will be {famous|well-known|renowned}, due to its {quality|feature} contents.|\\nI'm gone to {tell|inform|say to|convey} my little brother, that he should also {visit|go to see|pay a visit|pay a quick visit} this {blog|weblog|webpage|website|web site} on regular basis to {take|get|obtain} updated from {latest|newest|most recent|most up-to-date|hottest} {news|information|reports|gossip|news update}.|\\n{Hey|Hey there|Hi|Hello}, I think your {blog|website|site} might be having browser compatibility issues. When I look at your {blog|blog site|website} in {Firefox|Safari|Ie|Chrome|Opera}, it looks fine but when opening in Internet Explorer, it has some overlapping. I just wanted to give you a quick heads up! Other then that, {great|awesome|amazing|very good|superb|terrific|wonderful|fantastic|excellent} blog!|\\n{I|My partner and I|My spouse and I|We} absolutely love your blog and find {nearly all of|many of|a lot of|most of|the majority of|almost all of} your post's to be {just what|exactly|precisely what|what precisely|exactly what|just what} I'm looking for. {Does one|Do you|Would you|can you} offer guest writers to write content {for you|available for you|for you personally|for yourself|to suit your needs|in your case}? I wouldn't mind {composing|creating|producing|publishing|writing} a post or elaborating on {a lot of the|many of the|most of the|some of the|a few of the|a number of the} subjects you write {in relation to|concerning|about|regarding|related to|with regards to} here. Again, awesome {web site|site|weblog|web log|blog|website}!|\\n{Excellent|Terrific|Wonderful|Good|Great|Fantastic|Outstanding|Exceptional|Superb} post {but|however ,|however} I was {wondering|wanting to know} if you could write a litte more on this {topic|subject}? I'd be very {grateful|thankful} if you could elaborate a little bit {more|further}. {Thanks|Bless you|Kudos|Appreciate it|Cheers|Thank you|Many thanks}!|\\n{This is the|Right here is the} {right|perfect} {blog|website|site|web site|webpage} {for anyone who|for anybody who|for everyone who} {wants to|really wants to|would like to|wishes to|hopes to} {find out about|understand} this topic. {You realize|You understand|You know} {so much|a whole lot} its almost {hard to|tough to} argue with you (not that {I actually|I personally|I really} {would want|will need} to…HaHa). {You definitely|You certainly} put {a new|a brand new|a fresh} spin on a {topic|subject} {that has been|that's been|which has been} {written about|discussed} {for years|for a long time|for many years|for decades|for ages}. {Great|Excellent|Wonderful} stuff, just {great|excellent|wonderful}!|\\n{Pretty|Attractive} section of content. I just stumbled upon your {blog|weblog|website|web site|site} and in accession capital to assert that I {acquire|get} {in fact|actually} enjoyed account your blog posts. {Any way|Anyway} {I'll|I will} be subscribing to your {augment|feeds} and even I achievement you access consistently {rapidly|fast|quickly}.|\\n{Can you tell us more about this|I'd like to find out more|Do you have any video of that}? I'd {care|like|love|want} to find out {more details|some additional information}.|\\n{Appreciating|Admiring} the {hard work|dedication|time and energy|persistence|commitment|time and effort} you put into your {site|website|blog} and {in depth|detailed} information you {present|provide|offer}. It's {awesome|great|good|nice} to come across a blog every once in a while that isn't the same {out of date|unwanted|outdated|old} rehashed {material|information}. {Wonderful|Fantastic|Excellent|Great} read! I've {saved|bookmarked} your site and I'm {including|adding} your RSS feeds to my Google account.|\\n{Pretty|Attractive} {part of|section of|component to|portion of|component of|element of} content. I {simply|just} stumbled upon your {blog|weblog|website|web site|site} and in accession capital {to claim|to say|to assert} that I {acquire|get} {in fact|actually} {enjoyed|loved} account your {blog|weblog} posts. {Any way|Anyway} {I'll|I will} be subscribing {for your|on your|in your|to your} {augment|feeds} {or even|and even} I {fulfillment|achievement|success} you {get entry to|access|get right of entry to|get admission to} {consistently|persistently|constantly} {rapidly|fast|quickly}.|\\nPlease let me know if you're looking for a {article author|article writer|author|writer} for your {site|weblog|blog}. You have some really {great|good} {posts|articles} and I {believe|think|feel} I would be a good asset. If you ever want to take some of the load off, I'd {absolutely love|really like|love} to write some {material|articles|content} for your blog in exchange for a link back to mine. Please {send|blast|shoot} me an {e-mail|email} if interested. {Regards|Kudos|Cheers|Thank you|Many thanks|Thanks}!|\\nThis {post|text|information|info} is {priceless|invaluable|worth everyone's attention}. {Where|How|When} can I find out more?|\\nI {enjoy|take pleasure in|get pleasure from|appreciate|delight in|have fun with|savor|relish|savour}, {lead to|cause|result in} {I found|I discovered} {exactly|just} what {I used to be|I was} {taking a look|looking|having a look} for. {You have|You've} ended my {4|four} day {long|lengthy} hunt! God Bless you man. Have a {nice|great} day. Bye|\\nWhat a {stuff|information|data|material} of un-ambiguity and preserveness of {precious|valuable} {experience|knowledge|familiarity|know-how} {regarding|concerning|about|on the topic of} {unexpected|unpredicted} {feelings|emotions}.|\\n{Nice post|Good post}. I learn {something new|something totally new} and challenging on {blogs|sites|websites} I stumbleupon {everyday|every day|on a daily basis}. {It will always be|It's always} {interesting|exciting|helpful|useful} {to read|to read through} {content|articles} from other {writers|authors} {and practice|and use} {a little something|something} {from their|from other} {sites|websites|web sites}. |\\n{This is|That is} {very|really} {interesting|fascinating|attention-grabbing}, {You are|You're} {an overly|an excessively|a very} {professional|skilled} blogger. {I have|I've} joined your {feed|rss feed} and {look ahead to|look forward to|sit up for|stay up for} {in search of|seeking|looking for|in quest of|in the hunt for|searching for} {more|extra} of your {great|wonderful|fantastic|magnificent|excellent} post. {Also|Additionally}, {I have|I've} shared your {site|web site|website} in my social networks|\\n{Awesome|Tremendous|Remarkable|Amazing} {things|issues} here. {I'm|I am} very {satisfied|glad|happy} {to peer|to see|to look} your {article|post}. {Thank you|Thanks} {so much|a lot} and {I'm|I am} {taking a look|looking|having a look} {forward|ahead} to {touch|contact} you. Will you {please|kindly} drop me a {mail|e-mail}?|\\nPretty! {This was|This has been} {a really|an extremely|an incredibly} wonderful {post|article}. {Thank you for|Thanks for|Many thanks for} {providing|supplying} {this information|this info|these details}.|\\n{Thank you|Thanks }, {I have|I've} {recently|just} been {searching for|looking for} {information|info} {approximately|about} this {topic|subject} for {a while|ages|a long time} and yours is the {best|greatest} {I have|I've} {found out|came upon|discovered} {so far|till now}. {However|But}, what {about the|concerning the|in regards to the} {conclusion|bottom line}? Are you {sure|positive|certain} {about the|concerning the|in regards to the} {source|supply}?|\\n{Thank you|Thanks} a {bunch|lot} for sharing this with all {folks|people|of us} you {really|actually} {realize|recognize|understand|recognise|know} what {you are|you're} {talking|speaking} {approximately|about}! Bookmarked. {Please|Kindly} {also|additionally} {talk over with|discuss with|seek advice from|visit|consult with} my {site|web site|website} =",
+			"=[^a-z0-9].*$",
+			"[^=]*$",
+			"[^/]*",
+			"(?!.*=).*",
+			");\n",
+			"9",
+			"2",
+			"@",
+			".",
+			" ",
+			"-",
+			"__",
+			"-",
+			" ",
+			": Number,",
+			"PHP",
+			"Number",
+			"\"Your_Name\"",
+			"\"Your Name\"",
+			"Your Name",
+			"=(\\d+)",
+			"=",
+			"Server",
+			"Thing",
+			"api.",
+			"132",
+			"130",
+			"elevator",
+			"$",
+			"style",
+			" $post_url",
+			"test_",
+			"1170",
+			"container",
+			"her",
+			"@",
+			"hero",
+			"../theme",
+			"../wicket",
+			"wicket",
+			"74.62.134.110",
+			"74.62.128.237",
+			"74.62.134.110",
+			"index",
+			"192.168.5.46",
+			"horStripe",
+			"hor",
+			"btn-lg",
+			"@",
+			"tests",
+			"enqueue",
+			"cal-row-head"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"col-sm",
+			"wiredep",
+			"yeoman.app",
+			"$key",
+			"$this->key",
+			"faHover",
+			"@mixin \\1\\(\\2\\)\\n{",
+			"$",
+			"schedule",
+			"Server",
+			"emitData.server",
+			"emitData.successArray",
+			"emitData.parsedFile",
+			"parsedFile",
+			"verifyFiles.",
+			"projectFiles.",
+			"Template",
+			"String,",
+			" Number",
+			": Number",
+			": String",
+			"String",
+			": \"\",",
+			"",
+			"_",
+			"",
+			"_",
+			"",
+			"_",
+			"",
+			"project_object[0][\"\"]",
+			": Number,",
+			"VerifiedUrl",
+			"Proxy",
+			"Project",
+			"EmailAddress",
+			"Article",
+			"Server",
+			"",
+			"jQuery",
+			"debt_",
+			"wicket",
+			"192.168.5.46",
+			"74.62.128.237",
+			"smartloan.style_url+\"",
+			"col-lg-2",
+			"col-lg-4",
+			"col-lg-10",
+			"col-lg-5",
+			"col-lg-6",
+			"col-lg-12",
+			"col-lg-2",
+			"col-lg-8",
+			"col-lg-10",
+			"col-lg-3",
+			"col-lg-6",
+			"col-lg-4",
+			"col-lg-12",
+			"smartloan",
+			"smartloan_option_name",
+			"smartloan_option_group",
+			"smartloan-setting-admin",
+			"smartloan",
+			"public function",
+			"smartloan",
+			"smartloan_color_field",
+			"smartloan_color_key",
+			"smartloan_inner_color",
+			"save_color",
+			"render_meta_box_content_color",
+			"page_color",
+			"add_meta_box_page_color",
+			"smartloan_inner_video_link",
+			"smartloan_sub_headline_key",
+			"smartloan_sub_headline_field",
+			"smartloan_inner_sub_headline",
+			"smartloan",
+			"<%%= yeoman.dist",
+			"<%%= yeoman.app",
+			"<%= _.slugify(themeName) %>",
+			"http://level5motorsports.com",
+			"http://uscentral7.myserverhosts.com/~bkhwkow9",
+			"http://level5motorsports.com/",
+			"<%= _.slugify(themeName) %>",
+			"http://uscentral7.myserverhosts.com/~bkhwkow9",
+			"http://level5motorsports.com",
+			"http://uscentral7.myserverhosts.com/~bkhwkow9/",
+			"",
+			"<a target=\"_blank\"",
+			"hbars",
+			"",
+			"../../../../",
+			"yeoman",
+			"yeomanConfig.dist",
+			"yeomanConfig.app",
+			"yeoman",
+			"yeomanConfig.dist",
+			"yeomanConfig.app",
+			"",
+			"hbars!js/",
+			"/clients",
+			"apps/clients",
+			"hbars!",
+			"/clients",
+			"",
+			"http://level5motorsports.fizzdirp.com",
+			"http://uscentral7.myserverhosts.com/~bkhwkow9",
+			"http://level5motorsports.com",
+			"http://uscentral7.myserverhosts.com/~bkhwkow9",
+			"http://level5motorsports.com",
+			"$",
+			"jQuery",
+			"APR",
+			"A.P.R",
+			"blackhawk",
+			"smart_loan_calculator",
+			"SmartLoanCalculatorWidget",
+			"SmartLoanCalculator",
+			"SmartLoan",
+			"fizzdirp.com/smartloan",
+			"smartloan.fizzdirp.com",
+			"smartloan",
+			"http://smartloan.fizzdirp.com",
+			"http://oneclickcash.fizzdirp.com",
+			"http://smartloan.fizzdirp.com",
+			"http://oneclickcash.fizzdirp.com",
+			"http://smartloan.fizzdirp.com",
+			"http://oneclickcash.fizzdirp.com"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/templates/_Gruntfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 17105,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								17015,
+								17015
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 504.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/templates/server/views/_index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3922,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2446,
+								2446
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/usr/local/src/test/.gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 30,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15,
+								15
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13286,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13185,
+								13185
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5897.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": ".jshintrc",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 351,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/templates/_Dockerfile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 451,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								451,
+								451
+							]
+						],
+						"settings":
+						{
+							"auto_name": "#",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/usr/local/src/test/Gruntfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 17271,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 13359.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5770,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5769,
+								5769
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 87.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/usr/local/src/kinetic/torch-client/torchClient/src/app/watchtower/templates/filter-capture.widget.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 829,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4,
+								4
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 197,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "cd /tmp;wget https://dl.bintray.com/mitchellh/vagr",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 49.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 124.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "awesomeo.sublime-project",
+	"replace":
+	{
+		"height": 84.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"mai",
+				"app/scripts/controllers/main.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 558.0,
+		"selected_items":
+		[
+		],
+		"width": 1090.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 338.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

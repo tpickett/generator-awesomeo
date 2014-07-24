@@ -1,0 +1,21 @@
+#
+# <%= _.slugify(_.humanize(awesomeo.name)) %> Dockerfile
+#
+# 
+#
+FROM ubuntu:12.04
+MAINTAINER awesomeo
+
+RUN apt-get update && apt-get install -y python-software-properties python python-setuptools ruby
+RUN add-apt-repository ppa:chris-lea/node.js
+RUN echo "deb http://us.archive.ubuntu.com/ubuntu/ precise universe" >> /etc/apt/sources.list
+RUN apt-get update
+RUN apt-get install -y nodejs 
+
+VOLUME /usr/local/src/<%= _.slugify(_.humanize(awesomeo.name)) %>
+
+WORKDIR /usr/local/src/<%= _.slugify(_.humanize(awesomeo.name)) %>
+
+RUN npm install -g --silient grunt-cli bower
+
+EXPOSE 3000
